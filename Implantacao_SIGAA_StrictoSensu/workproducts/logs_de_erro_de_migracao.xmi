@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ea8Kf1GiS4uMfGCWTnZHZw" name="new_artifact,_bOmDoEW3EfCvEol5Is7bGg" guid="-Ea8Kf1GiS4uMfGCWTnZHZw" authors="elrison,emily,maiza" changeDate="2025-06-10T00:58:16.273-0400" changeDescription="Criação inicial do Work Product." version="1.0">
+  <mainDescription>Este log contém informações detalhadas sobre cada erro ou inconsistência encontrada durante a extração, transformação e&#xD;
+carga dos dados. Inclui a data e hora do erro, a descrição do erro, o registro afetado, o campo afetado, a origem do erro&#xD;
+(sistema SGP ou processo de migração), e a severidade do erro.</mainDescription>
+  <keyConsiderations>O log deve ser completo e preciso. Cada erro deve ser registrado individualmente, com detalhes suficientes para permitir a&#xD;
+correção. O log deve ser formatado de forma que possa ser facilmente analisado e processado.</keyConsiderations>
+  <purpose>Registrar todos os erros e inconsistências encontrados durante a migração, permitindo a correção e a garantia da qualidade&#xD;
+dos dados migrados.</purpose>
+  <impactOfNotHaving>A ausência do log impossibilita a identificação e correção de erros na migração, comprometendo a qualidade dos dados.</impactOfNotHaving>
+  <reasonsForNotNeeding>Não aplicável, pois é um artefato crítico para a garantia da qualidade da migração.</reasonsForNotNeeding>
+  <briefOutline>O log é gerado automaticamente durante a execução da tarefa &quot;Migrar Dados&quot;.</briefOutline>
+  <representation>Arquivo de texto (TXT, CSV, JSON), ou formato de log específico da ferramenta de migração.</representation>
+  <notation>Formato de log estruturado (ex: campos separados por vírgula, XML, JSON).</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

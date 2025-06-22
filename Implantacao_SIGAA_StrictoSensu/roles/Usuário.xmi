@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-53aLhWVdllffQTqje-FcUg" name="Usuário,_H53iUDs9EfCjyuend5h0kw" guid="-53aLhWVdllffQTqje-FcUg" authors="elrison,emily,maiza" changeDate="2025-06-09T23:06:34.313-0400" changeDescription="Criação de papel inicial" version="1.0">
+  <mainDescription>Profissionais que testam o sistema, validam dados e verificam a conformidade dos fluxos.</mainDescription>
+  <skills>Conhecimento dos fluxos de trabalho das unidades (DDPS, DGP, PROPEPG); Testes de software (funcionais); Validação de dados;&#xD;
+Comunicação de feedback.</skills>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_SX-CsE4yEfCSLMqBtmMLOw" guid="_SX-CsE4yEfCSLMqBtmMLOw">
+    <resourceDescriptors xmi:id="_SX-CsU4yEfCSLMqBtmMLOw" id="-s_dk7mRJHtZ7I7q6ZHHx8w" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_cWIggE4oEfC8SdflWuDbrQ" name="processo de implantacao" guid="_cWIggE4oEfC8SdflWuDbrQ">
+    <methodElementProperty xmi:id="_SYAe8E4yEfCSLMqBtmMLOw" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_SYAe8U4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yWTzIE4oEfC8SdflWuDbrQ" name="iniciacao" guid="_yWTzIE4oEfC8SdflWuDbrQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_KHIkAE4pEfC8SdflWuDbrQ" name="pacote" guid="_KHIkAE4pEfC8SdflWuDbrQ">
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_KHIkAU4pEfC8SdflWuDbrQ" name="pacote" guid="_KHIkAU4pEfC8SdflWuDbrQ" presentationName="pacote" superActivities="_yWTzIU4oEfC8SdflWuDbrQ"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_yWTzIU4oEfC8SdflWuDbrQ" name="iniciacao" guid="_yWTzIU4oEfC8SdflWuDbrQ" presentationName="iniciacao" superActivities="_cWIggU4oEfC8SdflWuDbrQ" breakdownElements="_KHIkAU4pEfC8SdflWuDbrQ _62M28E4wEfC8SdflWuDbrQ"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_62M28E4wEfC8SdflWuDbrQ" name="task" guid="_62M28E4wEfC8SdflWuDbrQ" presentationName="task" isPlanned="true" superActivities="_yWTzIU4oEfC8SdflWuDbrQ" isSynchronizedWithSource="false"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_v8Zb0E4wEfC8SdflWuDbrQ" name="execucao" guid="_v8Zb0E4wEfC8SdflWuDbrQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_v8Zb0U4wEfC8SdflWuDbrQ" name="execucao" guid="_v8Zb0U4wEfC8SdflWuDbrQ" presentationName="execucao" superActivities="_cWIggU4oEfC8SdflWuDbrQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_x9tMQE4wEfC8SdflWuDbrQ" name="homologacao" guid="_x9tMQE4wEfC8SdflWuDbrQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_x9tMQU4wEfC8SdflWuDbrQ" name="homologacao" guid="_x9tMQU4wEfC8SdflWuDbrQ" presentationName="homologacao" superActivities="_cWIggU4oEfC8SdflWuDbrQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_zh7_IE4wEfC8SdflWuDbrQ" name="finalizacao" guid="_zh7_IE4wEfC8SdflWuDbrQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_zh7_IU4wEfC8SdflWuDbrQ" name="finalizacao" guid="_zh7_IU4wEfC8SdflWuDbrQ" presentationName="finalizacao" superActivities="_cWIggU4oEfC8SdflWuDbrQ"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_cWIggU4oEfC8SdflWuDbrQ" name="processo de implantacao" guid="_cWIggU4oEfC8SdflWuDbrQ" presentationName="processo de implantacao" breakdownElements="_yWTzIU4oEfC8SdflWuDbrQ _v8Zb0U4wEfC8SdflWuDbrQ _x9tMQU4wEfC8SdflWuDbrQ _zh7_IU4wEfC8SdflWuDbrQ">
+      <presentation xmi:id="-s_dk7mRJHtZ7I7q6ZHHx8w" href="uma://-s_dk7mRJHtZ7I7q6ZHHx8w#-s_dk7mRJHtZ7I7q6ZHHx8w"/>
+      <defaultContext href="uma://_jVOoETs5EfCjyuend5h0kw#_i-FhIDs-EfCjyuend5h0kw"/>
+      <validContext href="uma://_jVOoETs5EfCjyuend5h0kw#_i-FhIDs-EfCjyuend5h0kw"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

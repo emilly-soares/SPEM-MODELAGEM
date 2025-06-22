@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HPcEV9JBnVzyTgGXWetoUg" name=",_FwVMAEZLEfCuHKNutCCF2A" guid="-HPcEV9JBnVzyTgGXWetoUg">
+  <sections xmi:id="_dSo_wEZLEfCuHKNutCCF2A" name="Analisar base de dados do SIGAA " guid="_dSo_wEZLEfCuHKNutCCF2A"/>
+  <sections xmi:id="_hRBg4EZLEfCuHKNutCCF2A" name="Analisar a base de dados do SGP" guid="_hRBg4EZLEfCuHKNutCCF2A"/>
+  <sections xmi:id="_kUqRAEZLEfCuHKNutCCF2A" name="Definir ordem das tabelas a serem migradas" guid="_kUqRAEZLEfCuHKNutCCF2A"/>
+</org.eclipse.epf.uma:TaskDescription>

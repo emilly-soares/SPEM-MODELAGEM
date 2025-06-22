@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-g20rvQWv-gJuaQA_F9grew" name="new_artifact,_ks5cAEW1EfCvEol5Is7bGg" guid="-g20rvQWv-gJuaQA_F9grew" authors="elrison,emily,maiza" changeDate="2025-06-10T00:45:28.149-0400" changeDescription="Criação inicial do Work Product - Representa a customização inicial do SIGAA." version="1.0">
+  <mainDescription>O Sistema Customizado refere-se à instância do SIGAA que foi modificada, configurada e integrada para se alinhar aos&#xD;
+processos de trabalho e às políticas específicas da Unipampa. Isso inclui ajustes em funcionalidades, relatórios, fluxos de&#xD;
+trabalho e integrações com outros sistemas, como o SGP, para garantir uma transição suave e operação eficiente.</mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    A customização deve estar alinhada com as melhores práticas de uso do SIGAA e com as necessidades reais da instituição.&#xD;
+    A compatibilidade com futuras atualizações de versão do SIGAA deve ser considerada. A segurança e o desempenho do&#xD;
+    sistema customizado são cruciais.&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>Fornecer a plataforma tecnológica final para a gestão acadêmica e administrativa da Unipampa, substituindo o sistema legado&#xD;
+SGP.</purpose>
+  <impactOfNotHaving>Sem o sistema customizado, o SIGAA não atenderia às necessidades específicas da Unipampa, inviabilizando a implantação.</impactOfNotHaving>
+  <reasonsForNotNeeding>Não aplicável, pois é o produto final do projeto de customização e implantação.</reasonsForNotNeeding>
+  <briefOutline>O sistema customizado é entregue através de pacotes de instalação, configurações de ambiente e scripts de banco de dados.</briefOutline>
+  <representation>Código-fonte compilado, scripts de configuração, imagens de máquina virtual (se aplicável), documentação de instalação.</representation>
+  <notation>Diagramas de componentes (UML), arquitetura de software, configurações em arquivos XML/JSON (se aplicável).</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

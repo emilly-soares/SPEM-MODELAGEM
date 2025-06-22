@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kMGMtmwFTRSgx09xT5j7IA" name=",_Cevm0EZIEfCuHKNutCCF2A" guid="-kMGMtmwFTRSgx09xT5j7IA" authors="elrison, emily, maiza" changeDate="2025-06-10T18:14:29.147-0400" changeDescription="Criação do inicio" version="1.0">
+  <sections xmi:id="_syNMcEZIEfCuHKNutCCF2A" name="Agendar renião com envolvidos" guid="_syNMcEZIEfCuHKNutCCF2A"/>
+  <sections xmi:id="_vlAEMEZIEfCuHKNutCCF2A" name="Realizar Reunião" guid="_vlAEMEZIEfCuHKNutCCF2A"/>
+  <sections xmi:id="_xGivcEZIEfCuHKNutCCF2A" name="Criar termo de acordo" guid="_xGivcEZIEfCuHKNutCCF2A"/>
+  <sections xmi:id="_yMlxgEZIEfCuHKNutCCF2A" name="Assinar termo de acordo" guid="_yMlxgEZIEfCuHKNutCCF2A"/>
+  <purpose>Formalizar a demanda do acordo entre as partes envolvidas</purpose>
+</org.eclipse.epf.uma:TaskDescription>

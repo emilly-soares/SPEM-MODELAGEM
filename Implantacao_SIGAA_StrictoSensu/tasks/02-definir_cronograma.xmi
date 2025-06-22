@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1BGHr5e8mhlYnhy6AjebAA" name=",_7fsUkEZIEfCuHKNutCCF2A" guid="-1BGHr5e8mhlYnhy6AjebAA" changeDate="2025-06-10T18:21:21.481-0400" version="1.0">
+  <sections xmi:id="_h8E68EZJEfCuHKNutCCF2A" name="Marcar Reunião" guid="_h8E68EZJEfCuHKNutCCF2A"/>
+  <sections xmi:id="_jaMewEZJEfCuHKNutCCF2A" name="Realizar Reunião" guid="_jaMewEZJEfCuHKNutCCF2A"/>
+  <sections xmi:id="_kzAEwEZJEfCuHKNutCCF2A" name="Levantamento de férias" guid="_kzAEwEZJEfCuHKNutCCF2A"/>
+  <sections xmi:id="_mO9FYEZJEfCuHKNutCCF2A" name="Levantamento de licenças(afastamentos, doenças etc..)" guid="_mO9FYEZJEfCuHKNutCCF2A"/>
+  <sections xmi:id="_pzWZMEZJEfCuHKNutCCF2A" name="Levantamento de outros projetos (Carga horaria alocada em outros projetos)." guid="_pzWZMEZJEfCuHKNutCCF2A"/>
+  <sections xmi:id="_tWDq8EZJEfCuHKNutCCF2A" name="Elaborar previsão de data de entrega" guid="_tWDq8EZJEfCuHKNutCCF2A"/>
+  <sections xmi:id="_8_HDcEZJEfCuHKNutCCF2A" name="Criar Documento de Cronograma." guid="_8_HDcEZJEfCuHKNutCCF2A"/>
+</org.eclipse.epf.uma:TaskDescription>

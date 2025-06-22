@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_SXFR4E4yEfCSLMqBtmMLOw" guid="_SXFR4E4yEfCSLMqBtmMLOw">
+    <subManagers xmi:id="_SX-CsE4yEfCSLMqBtmMLOw" href="uma://_cWIggE4oEfC8SdflWuDbrQ#_SX-CsE4yEfCSLMqBtmMLOw"/>
+    <resourceDescriptors xmi:id="_SXIVME4yEfCSLMqBtmMLOw" id="-Qg0KwIhJpdM0YpBOrYelmg" uri="roles/Analista%20de%20Negócios.xmi"/>
+    <resourceDescriptors xmi:id="_SXN0wE4yEfCSLMqBtmMLOw" id="-q_bG24aCn_4moTSa2zl6IA" uri="roles/Gerente%20de%20Projeto.xmi"/>
+    <resourceDescriptors xmi:id="_SXQ4EE4yEfCSLMqBtmMLOw" id="-BM45CGLJDichFMF5K7x2qw" uri="tasks/05-Migrar%20Dados.xmi"/>
+    <resourceDescriptors xmi:id="_SXStQE4yEfCSLMqBtmMLOw" id="-YzTclI6ltJ1XeRzPmlHJBg" uri="roles/Analista%20de%20Suporte.xmi"/>
+    <resourceDescriptors xmi:id="_SXUicE4yEfCSLMqBtmMLOw" id="-53aLhWVdllffQTqje-FcUg" uri="roles/Usuário.xmi"/>
+    <resourceDescriptors xmi:id="_SXVwkE4yEfCSLMqBtmMLOw" id="-Yan5_VMySUEO1-SiMlBXQQ" uri="tasks/10-Testar%20Sistema.xmi"/>
+    <resourceDescriptors xmi:id="_SXWXoE4yEfCSLMqBtmMLOw" id="-qpdJ8EIIdqwsaD1tnnOZvQ" uri="tasks/14-Treinar%20Usuários.xmi"/>
+    <resourceDescriptors xmi:id="_SXXlwE4yEfCSLMqBtmMLOw" id="-TAoeieWNB43tCquxbbyGBg" uri="tasks/13-Elaborar_Treinamentos.xmi"/>
+    <resourceDescriptors xmi:id="_SXYz4E4yEfCSLMqBtmMLOw" id="-ZS3BV4IPmW7mGvlG0HxLvQ" uri="tasks/12-Solicitar%20Customização.xmi"/>
+    <resourceDescriptors xmi:id="_SXapEE4yEfCSLMqBtmMLOw" id="-WFBofDnQaBLV3eWWQ5iZ6Q" uri="workproducts/Chamado%20para%20Solicitação%20de%20Suporte.xmi"/>
+    <resourceDescriptors xmi:id="_SXceQE4yEfCSLMqBtmMLOw" id="-AXnPhd5mkm6nq94-dpycrw" uri="roles/analista_de_sistemas.xmi"/>
+    <resourceDescriptors xmi:id="_SXdsYE4yEfCSLMqBtmMLOw" id="-jPO9R-bi8uBAGCAf9sCHvg" uri="roles/analista_de_infraestrutura_de_sistema.xmi"/>
+    <resourceDescriptors xmi:id="_SXfhkE4yEfCSLMqBtmMLOw" id="-Mh6oINTHfcbXihdxOldS_A" uri="roles/analista_de_banco_de_dados.xmi"/>
+    <resourceDescriptors xmi:id="_SXgvsE4yEfCSLMqBtmMLOw" id="-yl9qHnsNINX-qNer7oV1fw" uri="workproducts/dados_do_sistema_legado_sgp.xmi"/>
+    <resourceDescriptors xmi:id="_SXh90E4yEfCSLMqBtmMLOw" id="-WGvrFYlADVNCaCh-ObuQVA" uri="workproducts/mapeamento_de_dados.xmi"/>
+    <resourceDescriptors xmi:id="_SXjzAE4yEfCSLMqBtmMLOw" id="--DH7nC_RWNZeQG9yMrPbgw" uri="workproducts/plano_de_migrao_de_dados.xmi"/>
+    <resourceDescriptors xmi:id="_SXlBIE4yEfCSLMqBtmMLOw" id="-g20rvQWv-gJuaQA_F9grew" uri="workproducts/y-sistema_customizado.xmi"/>
+    <resourceDescriptors xmi:id="_SXmPQE4yEfCSLMqBtmMLOw" id="-A1aoFKxVni1wpO40mN7UoA" uri="workproducts/relatorio_de_migracao.xmi"/>
+    <resourceDescriptors xmi:id="_SXm2UE4yEfCSLMqBtmMLOw" id="-Ea8Kf1GiS4uMfGCWTnZHZw" uri="workproducts/logs_de_erro_de_migracao.xmi"/>
+    <resourceDescriptors xmi:id="_SXoEcE4yEfCSLMqBtmMLOw" id="-5pTtocmWjAklNOzhADOrRA" uri="workproducts/w-documentacao_do_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_SXpSkE4yEfCSLMqBtmMLOw" id="-r1XeHTvX_xP01neUEDU3hw" uri="workproducts/z-base_de_conhecimento.xmi"/>
+    <resourceDescriptors xmi:id="_SXqgsE4yEfCSLMqBtmMLOw" id="-_nAGzxsWsgy4Nw4ylLf1EA" uri="guidances/guidelines/guia_documentao_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_SXs88E4yEfCSLMqBtmMLOw" id="-xb_XWaZwuWPxo_zWpe5ZIg" uri="guidances/guidelines/base_de_conhecimento.xmi"/>
+    <resourceDescriptors xmi:id="_SXuLEE4yEfCSLMqBtmMLOw" id="-kMGMtmwFTRSgx09xT5j7IA" uri="tasks/01-acordar_demanda.xmi"/>
+    <resourceDescriptors xmi:id="_SXvZME4yEfCSLMqBtmMLOw" id="-1BGHr5e8mhlYnhy6AjebAA" uri="tasks/02-definir_cronograma.xmi"/>
+    <resourceDescriptors xmi:id="_SXxOYE4yEfCSLMqBtmMLOw" id="-qiTL_FIbe7bRBd0LjZehSg" uri="tasks/03-aprovar_cronograma.xmi"/>
+    <resourceDescriptors xmi:id="_SXycgE4yEfCSLMqBtmMLOw" id="-HPcEV9JBnVzyTgGXWetoUg" uri="tasks/04-elaborar_plano_de_migrao.xmi"/>
+    <resourceDescriptors xmi:id="_SX0RsE4yEfCSLMqBtmMLOw" id="-ByR1pNkJ_qDDjlQ6uZhNjw" uri="tasks/06-validar_dados_migrados.xmi"/>
+    <resourceDescriptors xmi:id="_SX2G4E4yEfCSLMqBtmMLOw" id="-SrXS9dyKSxK2ANQZ62xO0g" uri="roles/analista_de_testes.xmi"/>
+    <resourceDescriptors xmi:id="_SX38EE4yEfCSLMqBtmMLOw" id="-xzDixnroL25WDRaDNLCwAQ" uri="tasks/07-homologar_migrao.xmi"/>
+    <resourceDescriptors xmi:id="_SX5KME4yEfCSLMqBtmMLOw" id="-g0on4ip5p2xdN3Xz6siKkA" uri="tasks/08-realizar_homologao_final.xmi"/>
+    <resourceDescriptors xmi:id="_SX6_YE4yEfCSLMqBtmMLOw" id="-USO6V0n37b-KCSKxeOuJyg" uri="tasks/11-cadastrar_solicitacao_suporte.xmi"/>
+    <resourceDescriptors xmi:id="_SX8NgE4yEfCSLMqBtmMLOw" id="_cWIggE4oEfC8SdflWuDbrQ" uri="deliveryprocesses/processo%20de%20implantacao/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_iC_HoDs6EfCjyuend5h0kw" name="Implantacao_SIGAA_StrictoSensu" guid="_iC_HoDs6EfCjyuend5h0kw">
+    <methodElementProperty xmi:id="_SW99IU4yEfCSLMqBtmMLOw" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_HoTs6EfCjyuend5h0kw" name="Content" guid="_iC_HoTs6EfCjyuend5h0kw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_Hojs6EfCjyuend5h0kw" name="Categories" guid="_iC_Hojs6EfCjyuend5h0kw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_Hozs6EfCjyuend5h0kw" name="Domains" guid="_iC_Hozs6EfCjyuend5h0kw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_HpDs6EfCjyuend5h0kw" name="Disciplines" guid="_iC_HpDs6EfCjyuend5h0kw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_HpTs6EfCjyuend5h0kw" name="RoleSets" guid="_iC_HpTs6EfCjyuend5h0kw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_Hpjs6EfCjyuend5h0kw" name="WP Types" guid="_iC_Hpjs6EfCjyuend5h0kw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_Hpzs6EfCjyuend5h0kw" name="Tools" guid="_iC_Hpzs6EfCjyuend5h0kw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_HqDs6EfCjyuend5h0kw" name="StandardCategories" guid="_iC_HqDs6EfCjyuend5h0kw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_HqTs6EfCjyuend5h0kw" name="CustomCategories" guid="_iC_HqTs6EfCjyuend5h0kw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_Hqjs6EfCjyuend5h0kw" name="Hidden" guid="_iC_Hqjs6EfCjyuend5h0kw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_iC_Hqzs6EfCjyuend5h0kw" name="Custom Categories" guid="_iC_Hqzs6EfCjyuend5h0kw" categorizedElements="_WXCPYE4pEfC8SdflWuDbrQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_WXCPYE4pEfC8SdflWuDbrQ" name="minha_visao" guid="_WXCPYE4pEfC8SdflWuDbrQ" presentationName="minha visao">
+            <methodElementProperty xmi:id="_SW99Ik4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_SW99I04yEfCSLMqBtmMLOw" name="PUBLISH_CATEGORY" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_cWIggE4oEfC8SdflWuDbrQ#_cWIggU4oEfC8SdflWuDbrQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iC_HrDs6EfCjyuend5h0kw" name="CoreContent" guid="_iC_HrDs6EfCjyuend5h0kw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hm3W4Ds7EfCjyuend5h0kw" name="Implantacao_SIGAA_StrictoSensu" guid="_hm3W4Ds7EfCjyuend5h0kw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_UrX7YDs8EfCjyuend5h0kw" name="Analista de Negócios" guid="_UrX7YDs8EfCjyuend5h0kw" presentationName="Analista de Negócios" briefDescription="Profissional responsável por estudar a nova solução, avaliar a compatibilidade entre os sistemas SGP x SIGAA." responsibleFor="_n_ez4Ds9EfCjyuend5h0kw">
+            <methodElementProperty xmi:id="_SW99JE4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-Qg0KwIhJpdM0YpBOrYelmg" href="uma://-Qg0KwIhJpdM0YpBOrYelmg#-Qg0KwIhJpdM0YpBOrYelmg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_i1yLoDs8EfCjyuend5h0kw" name="Gerente de Projeto" guid="_i1yLoDs8EfCjyuend5h0kw" presentationName="Gerente de Projeto" briefDescription="Responsável por planejar, executar e monitorizar o projeto de implantação do sistema.">
+            <methodElementProperty xmi:id="_SW99JU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-q_bG24aCn_4moTSa2zl6IA" href="uma://-q_bG24aCn_4moTSa2zl6IA#-q_bG24aCn_4moTSa2zl6IA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ti-uIDs8EfCjyuend5h0kw" name="05-Migrar Dados" guid="_ti-uIDs8EfCjyuend5h0kw" presentationName="Migrar Dados" briefDescription="Transferência e transformação de dados do sistema legado (SGP) para o novo sistema (SIGAA)." performedBy="_PQMVwEWoEfCvEol5Is7bGg _su4oYEWoEfCvEol5Is7bGg _UrX7YDs8EfCjyuend5h0kw" mandatoryInput="_ryuEoEW0EfCvEol5Is7bGg _yjTdEEWzEfCvEol5Is7bGg _36X_wDs8EfCjyuend5h0kw" optionalInput="_33kEoEW2EfCvEol5Is7bGg _bOmDoEW3EfCvEol5Is7bGg">
+            <methodElementProperty xmi:id="_SW99Jk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-BM45CGLJDichFMF5K7x2qw" href="uma://-BM45CGLJDichFMF5K7x2qw#-BM45CGLJDichFMF5K7x2qw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_36X_wDs8EfCjyuend5h0kw" name="Dados Migrados" guid="_36X_wDs8EfCjyuend5h0kw" presentationName="Dados Migrados">
+            <methodElementProperty xmi:id="_SW99J04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_GJph4Ds9EfCjyuend5h0kw" name="Analista de Suporte" guid="_GJph4Ds9EfCjyuend5h0kw" presentationName="Analista de Suporte" briefDescription="Profissional responsável por fornecer suporte técnico e auxiliar na resolução de problemas do sistema.">
+            <methodElementProperty xmi:id="_SW99KE4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-YzTclI6ltJ1XeRzPmlHJBg" href="uma://-YzTclI6ltJ1XeRzPmlHJBg#-YzTclI6ltJ1XeRzPmlHJBg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_H53iUDs9EfCjyuend5h0kw" name="Usuário" guid="_H53iUDs9EfCjyuend5h0kw" presentationName="Usuários (Docentes, TAEs)" briefDescription="Representa o stakeholder final do sistema, fornecendo feedback e participando da validação.">
+            <methodElementProperty xmi:id="_SW99KU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-53aLhWVdllffQTqje-FcUg" href="uma://-53aLhWVdllffQTqje-FcUg#-53aLhWVdllffQTqje-FcUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RuBkADs9EfCjyuend5h0kw" name="10-Testar Sistema" guid="_RuBkADs9EfCjyuend5h0kw" presentationName="10-Testar Sistema" performedBy="_H53iUDs9EfCjyuend5h0kw _YSPWEEZNEfCuHKNutCCF2A" mandatoryInput="_r17hADs9EfCjyuend5h0kw">
+            <methodElementProperty xmi:id="_SW99Kk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-Yan5_VMySUEO1-SiMlBXQQ" href="uma://-Yan5_VMySUEO1-SiMlBXQQ#-Yan5_VMySUEO1-SiMlBXQQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VrWVMDs9EfCjyuend5h0kw" name="14-Treinar Usuários" guid="_VrWVMDs9EfCjyuend5h0kw" presentationName="14-Treinar Usuários" performedBy="_H53iUDs9EfCjyuend5h0kw _GJph4Ds9EfCjyuend5h0kw _UrX7YDs8EfCjyuend5h0kw" mandatoryInput="_0w1mgDs9EfCjyuend5h0kw">
+            <methodElementProperty xmi:id="_SW99K04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-qpdJ8EIIdqwsaD1tnnOZvQ" href="uma://-qpdJ8EIIdqwsaD1tnnOZvQ#-qpdJ8EIIdqwsaD1tnnOZvQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_d9WAkDs9EfCjyuend5h0kw" name="13-Elaborar_Treinamentos" guid="_d9WAkDs9EfCjyuend5h0kw" presentationName="13-Elaborar_Treinamentos" briefDescription="Processo para o usuário requisitar assistência ou resolução de problemas relacionados ao sistema." performedBy="_H53iUDs9EfCjyuend5h0kw _GJph4Ds9EfCjyuend5h0kw" mandatoryInput="_xlQXYE4tEfC8SdflWuDbrQ">
+            <methodElementProperty xmi:id="_SW99LE4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-TAoeieWNB43tCquxbbyGBg" href="uma://-TAoeieWNB43tCquxbbyGBg#-TAoeieWNB43tCquxbbyGBg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f0LmYDs9EfCjyuend5h0kw" name="12-Solicitar Customização" guid="_f0LmYDs9EfCjyuend5h0kw" presentationName="12-Solicitar Customização" performedBy="_H53iUDs9EfCjyuend5h0kw" mandatoryInput="_xLf3gDs9EfCjyuend5h0kw">
+            <methodElementProperty xmi:id="_SW99LU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZS3BV4IPmW7mGvlG0HxLvQ" href="uma://-ZS3BV4IPmW7mGvlG0HxLvQ#-ZS3BV4IPmW7mGvlG0HxLvQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_n_ez4Ds9EfCjyuend5h0kw" name="Documentação de Implantação" guid="_n_ez4Ds9EfCjyuend5h0kw" presentationName="Documentação de Implantação">
+            <methodElementProperty xmi:id="_SW99Lk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_r17hADs9EfCjyuend5h0kw" name="Relatório Testes" guid="_r17hADs9EfCjyuend5h0kw" presentationName="Relatório de Testes">
+            <methodElementProperty xmi:id="_SW99L04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xLf3gDs9EfCjyuend5h0kw" name="Solicitação de Customização" guid="_xLf3gDs9EfCjyuend5h0kw" presentationName="Solicitação de Customização">
+            <methodElementProperty xmi:id="_SW99ME4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zEkR8Ds9EfCjyuend5h0kw" name="Chamado para Solicitação de Suporte" guid="_zEkR8Ds9EfCjyuend5h0kw" presentationName="Chamado para Solicitação de Suporte" briefDescription="Um registro formal de um problema ou dúvida de um usuário, solicitando assistência.">
+            <methodElementProperty xmi:id="_SW99MU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-WFBofDnQaBLV3eWWQ5iZ6Q" href="uma://-WFBofDnQaBLV3eWWQ5iZ6Q#-WFBofDnQaBLV3eWWQ5iZ6Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_0w1mgDs9EfCjyuend5h0kw" name="Relatorio de Execução do Treinamento" guid="_0w1mgDs9EfCjyuend5h0kw" presentationName="Relatorio de Execução do Treinamento">
+            <methodElementProperty xmi:id="_SW99Mk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_2ewg4Ds9EfCjyuend5h0kw" name="Relatorio de Migração Homologada" guid="_2ewg4Ds9EfCjyuend5h0kw" presentationName="Relatorio de Migração Homologada">
+            <methodElementProperty xmi:id="_SW99M04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_PQMVwEWoEfCvEol5Is7bGg" name="analista_de_sistemas" guid="_PQMVwEWoEfCvEol5Is7bGg" presentationName="Analista de Sistemas" briefDescription="Profissional responsável por analisar fluxos do sistema, realizar correções em código-fonte e migração de dados.">
+            <methodElementProperty xmi:id="_SW99NE4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-AXnPhd5mkm6nq94-dpycrw" href="uma://-AXnPhd5mkm6nq94-dpycrw#-AXnPhd5mkm6nq94-dpycrw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_dwFGwEWoEfCvEol5Is7bGg" name="analista_de_infraestrutura_de_sistema" guid="_dwFGwEWoEfCvEol5Is7bGg" presentationName="Analista de Infraestrutura de Sistema" briefDescription="Responsável por atualizações de versão, merges de código e disponibilização do sistema em ambientes.">
+            <methodElementProperty xmi:id="_SW99NU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-jPO9R-bi8uBAGCAf9sCHvg" href="uma://-jPO9R-bi8uBAGCAf9sCHvg#-jPO9R-bi8uBAGCAf9sCHvg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_su4oYEWoEfCvEol5Is7bGg" name="analista_de_banco_de_dados" guid="_su4oYEWoEfCvEol5Is7bGg" presentationName="Analista de Banco de Dados" briefDescription="Profissional responsável por auxiliar na migração de dados e revisar rotinas de migração.">
+            <methodElementProperty xmi:id="_SW99Nk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-Mh6oINTHfcbXihdxOldS_A" href="uma://-Mh6oINTHfcbXihdxOldS_A#-Mh6oINTHfcbXihdxOldS_A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yjTdEEWzEfCvEol5Is7bGg" name="dados_do_sistema_legado_sgp" guid="_yjTdEEWzEfCvEol5Is7bGg" presentationName="Dados do Sistema Legado (SGP)" briefDescription="Conjunto de dados brutos e estruturados provenientes do sistema legado SGP">
+            <methodElementProperty xmi:id="_SW99N04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-yl9qHnsNINX-qNer7oV1fw" href="uma://-yl9qHnsNINX-qNer7oV1fw#-yl9qHnsNINX-qNer7oV1fw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ryuEoEW0EfCvEol5Is7bGg" name="mapeamento_de_dados" guid="_ryuEoEW0EfCvEol5Is7bGg" presentationName="Mapeamento de dados" briefDescription="Documento que detalha a correspondência entre os campos e estruturas de dados do sistema SGP e do SIGAA.">
+            <methodElementProperty xmi:id="_SW-kME4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-WGvrFYlADVNCaCh-ObuQVA" href="uma://-WGvrFYlADVNCaCh-ObuQVA#-WGvrFYlADVNCaCh-ObuQVA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_IU_LQEW1EfCvEol5Is7bGg" name="plano_de_migrao_de_dados" guid="_IU_LQEW1EfCvEol5Is7bGg" presentationName="Plano de Migração de Dados" briefDescription="Documento que descreve a estratégia, escopo, cronograma, ferramentas e procedimentos para a migração de dados.">
+            <methodElementProperty xmi:id="_SW-kMU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="--DH7nC_RWNZeQG9yMrPbgw" href="uma://--DH7nC_RWNZeQG9yMrPbgw#--DH7nC_RWNZeQG9yMrPbgw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ks5cAEW1EfCvEol5Is7bGg" name="y-sistema_customizado" guid="_ks5cAEW1EfCvEol5Is7bGg" presentationName="Sistema Customizado" briefDescription="A aplicação SIGAA adaptada e configurada para atender aos requisitos específicos da Unipampa.">
+            <methodElementProperty xmi:id="_SW-kMk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-g20rvQWv-gJuaQA_F9grew" href="uma://-g20rvQWv-gJuaQA_F9grew#-g20rvQWv-gJuaQA_F9grew"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_33kEoEW2EfCvEol5Is7bGg" name="relatorio_de_migracao" guid="_33kEoEW2EfCvEol5Is7bGg" presentationName="Relatorio de Migração" briefDescription="Documento que detalha o resultado da migração de dados, incluindo número de registros migrados, erros encontrados e status final.">
+            <methodElementProperty xmi:id="_SW-kM04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-A1aoFKxVni1wpO40mN7UoA" href="uma://-A1aoFKxVni1wpO40mN7UoA#-A1aoFKxVni1wpO40mN7UoA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bOmDoEW3EfCvEol5Is7bGg" name="logs_de_erro_de_migracao" guid="_bOmDoEW3EfCvEol5Is7bGg" presentationName="Logs de Erro de Migração" briefDescription="Arquivo de registro contendo detalhes de quaisquer erros ou inconsistências identificadas durante o processo de migração.">
+            <methodElementProperty xmi:id="_SW-kNE4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-Ea8Kf1GiS4uMfGCWTnZHZw" href="uma://-Ea8Kf1GiS4uMfGCWTnZHZw#-Ea8Kf1GiS4uMfGCWTnZHZw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_006kQEW8EfCvEol5Is7bGg" name="w-documentacao_do_usuario" guid="_006kQEW8EfCvEol5Is7bGg" presentationName="Documentação do Usuário" briefDescription="Manuais, guias e outros materiais de apoio para auxiliar os usuários a utilizar o sistema SIGAA." guidelines="_l_Kt0EYFEfCuHKNutCCF2A _Iq6VgEZFEfCuHKNutCCF2A">
+            <methodElementProperty xmi:id="_SW-kNU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-5pTtocmWjAklNOzhADOrRA" href="uma://-5pTtocmWjAklNOzhADOrRA#-5pTtocmWjAklNOzhADOrRA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xiLv8EYDEfCuHKNutCCF2A" name="z-base_de_conhecimento" guid="_xiLv8EYDEfCuHKNutCCF2A" presentationName="Base de Conhecimento" briefDescription="Repositório centralizado de informações e soluções para problemas e dúvidas relacionadas ao sistema SIGAA.">
+            <methodElementProperty xmi:id="_SW-kNk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-r1XeHTvX_xP01neUEDU3hw" href="uma://-r1XeHTvX_xP01neUEDU3hw#-r1XeHTvX_xP01neUEDU3hw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_l_Kt0EYFEfCuHKNutCCF2A" name="guia_documentao_usuario" guid="_l_Kt0EYFEfCuHKNutCCF2A" presentationName="Guia Documentação Usuario">
+            <methodElementProperty xmi:id="_SW-kN04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-_nAGzxsWsgy4Nw4ylLf1EA" href="uma://-_nAGzxsWsgy4Nw4ylLf1EA#-_nAGzxsWsgy4Nw4ylLf1EA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_Iq6VgEZFEfCuHKNutCCF2A" name="base_de_conhecimento" guid="_Iq6VgEZFEfCuHKNutCCF2A" presentationName="Base de Conhecimento" briefDescription="Guia de Boas Práticas para Base de Conhecimento">
+            <methodElementProperty xmi:id="_SW-kOE4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-xb_XWaZwuWPxo_zWpe5ZIg" href="uma://-xb_XWaZwuWPxo_zWpe5ZIg#-xb_XWaZwuWPxo_zWpe5ZIg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Cevm0EZIEfCuHKNutCCF2A" name="01-acordar_demanda" guid="_Cevm0EZIEfCuHKNutCCF2A" presentationName="Acordar Demanda" briefDescription="Acordo entre as partes envolvidas no processo para inicio da implantação de sistema" performedBy="_i1yLoDs8EfCjyuend5h0kw _UrX7YDs8EfCjyuend5h0kw _H53iUDs9EfCjyuend5h0kw" mandatoryInput="_hSbWcEZIEfCuHKNutCCF2A">
+            <methodElementProperty xmi:id="_SW-kOU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-kMGMtmwFTRSgx09xT5j7IA" href="uma://-kMGMtmwFTRSgx09xT5j7IA#-kMGMtmwFTRSgx09xT5j7IA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hSbWcEZIEfCuHKNutCCF2A" name="termo_de_acordo" guid="_hSbWcEZIEfCuHKNutCCF2A" presentationName="Termo de Acordo">
+            <methodElementProperty xmi:id="_SW-kOk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7fsUkEZIEfCuHKNutCCF2A" name="02-definir_cronograma" guid="_7fsUkEZIEfCuHKNutCCF2A" presentationName="Definir Cronograma" briefDescription=" equipe responsavel pela implantação se reunirá para definição de cronograma de implatação" performedBy="_i1yLoDs8EfCjyuend5h0kw _UrX7YDs8EfCjyuend5h0kw _PQMVwEWoEfCvEol5Is7bGg" mandatoryInput="_PiHhEEZJEfCuHKNutCCF2A">
+            <methodElementProperty xmi:id="_SW-kO04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-1BGHr5e8mhlYnhy6AjebAA" href="uma://-1BGHr5e8mhlYnhy6AjebAA#-1BGHr5e8mhlYnhy6AjebAA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_PiHhEEZJEfCuHKNutCCF2A" name="cronograma_de_implantao" guid="_PiHhEEZJEfCuHKNutCCF2A" presentationName="Cronograma de Implantação" briefDescription="Documento que contem datas e que irão impactar no projeto, férias licensas e uma previsão de entrega.">
+            <methodElementProperty xmi:id="_SW-kPE4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_I9m1wEZKEfCuHKNutCCF2A" name="03-aprovar_cronograma" guid="_I9m1wEZKEfCuHKNutCCF2A" presentationName="Aprovar Cronograma" briefDescription="Cliente vai analisar o cronograma proposto." performedBy="_H53iUDs9EfCjyuend5h0kw" mandatoryInput="_PiHhEEZJEfCuHKNutCCF2A">
+            <methodElementProperty xmi:id="_SW-kPU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-qiTL_FIbe7bRBd0LjZehSg" href="uma://-qiTL_FIbe7bRBd0LjZehSg#-qiTL_FIbe7bRBd0LjZehSg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_FwVMAEZLEfCuHKNutCCF2A" name="04-elaborar_plano_de_migrao" guid="_FwVMAEZLEfCuHKNutCCF2A" presentationName="04-Elaborar Plano de Migração" briefDescription="Criar documento descrevendo a ordem de migração dos sistemas legados." performedBy="_PQMVwEWoEfCvEol5Is7bGg _UrX7YDs8EfCjyuend5h0kw" mandatoryInput="_IU_LQEW1EfCvEol5Is7bGg">
+            <methodElementProperty xmi:id="_SW-kPk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-HPcEV9JBnVzyTgGXWetoUg" href="uma://-HPcEV9JBnVzyTgGXWetoUg#-HPcEV9JBnVzyTgGXWetoUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pk_FsEZMEfCuHKNutCCF2A" name="06-validar_dados_migrados" guid="_pk_FsEZMEfCuHKNutCCF2A" presentationName="06-Validar Dados Migrados" briefDescription="Equipe de TI irá realizar a validação dos dados migrados" performedBy="_UrX7YDs8EfCjyuend5h0kw _YSPWEEZNEfCuHKNutCCF2A" mandatoryInput="_qeGCgEZNEfCuHKNutCCF2A">
+            <methodElementProperty xmi:id="_SW-kP04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-ByR1pNkJ_qDDjlQ6uZhNjw" href="uma://-ByR1pNkJ_qDDjlQ6uZhNjw#-ByR1pNkJ_qDDjlQ6uZhNjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_YSPWEEZNEfCuHKNutCCF2A" name="analista_de_testes" guid="_YSPWEEZNEfCuHKNutCCF2A" presentationName="Analista de Testes" briefDescription="É o profissional responsavel pela verificação e validação dos dados e funcionalidades produzidas pela equipe de desenvolvimento.">
+            <methodElementProperty xmi:id="_SW-kQE4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-SrXS9dyKSxK2ANQZ62xO0g" href="uma://-SrXS9dyKSxK2ANQZ62xO0g#-SrXS9dyKSxK2ANQZ62xO0g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qeGCgEZNEfCuHKNutCCF2A" name="relatorio_de_validao_da_migrao" guid="_qeGCgEZNEfCuHKNutCCF2A" presentationName="Relatorio de Validação da Migração" briefDescription="Realatorio contendo todos os itens levantados pela equipe responsável pela validação da migração de dados (Sugestões, erros, falhas)">
+            <methodElementProperty xmi:id="_SW-kQU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QiauMEZOEfCuHKNutCCF2A" name="07-homologar_migrao" guid="_QiauMEZOEfCuHKNutCCF2A" presentationName="Homologar Migração" briefDescription="Etapa em que a parte que o cliente(usuário) irá realizar a homologação de dados migrados." performedBy="_H53iUDs9EfCjyuend5h0kw" mandatoryInput="_2ewg4Ds9EfCjyuend5h0kw">
+            <methodElementProperty xmi:id="_SW-kQk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-xzDixnroL25WDRaDNLCwAQ" href="uma://-xzDixnroL25WDRaDNLCwAQ#-xzDixnroL25WDRaDNLCwAQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_H3bekEZPEfCuHKNutCCF2A" name="08-realizar_homologao_final" guid="_H3bekEZPEfCuHKNutCCF2A" presentationName="08-Realizar Homologação Final" briefDescription="Etapa em que o usuário irá realizar a homologação final dos dados migrados bem como as funcionalidades do sistema implantado." performedBy="_H53iUDs9EfCjyuend5h0kw" mandatoryInput="_nerjsEZQEfCuHKNutCCF2A">
+            <methodElementProperty xmi:id="_SW-kQ04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-g0on4ip5p2xdN3Xz6siKkA" href="uma://-g0on4ip5p2xdN3Xz6siKkA#-g0on4ip5p2xdN3Xz6siKkA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Ib3y8EZQEfCuHKNutCCF2A" name="09-disponibilizar_sistema_em_ambiente_de_produo" guid="_Ib3y8EZQEfCuHKNutCCF2A" presentationName="09-Disponibilizar Sistema em Ambiente de Produção" briefDescription="Nessa etapa o Analista de Infraestrutura de Sistema realiza as configurações necessárias para a disponibilização da versão final do sistema em ambiente de produção." performedBy="_dwFGwEWoEfCvEol5Is7bGg" mandatoryInput="_V9o5YEZREfCuHKNutCCF2A">
+            <methodElementProperty xmi:id="_SW-kRE4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nerjsEZQEfCuHKNutCCF2A" name="relatorio_de_homologao_final" guid="_nerjsEZQEfCuHKNutCCF2A" presentationName="Relatorio de Homologação Final" briefDescription="Relatorio onde o cliente (usuário) faz a devolutiva do processo de homologação final.  ">
+            <methodElementProperty xmi:id="_SW-kRU4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_V9o5YEZREfCuHKNutCCF2A" name="sistema_em_produo" guid="_V9o5YEZREfCuHKNutCCF2A" presentationName="Sistema em Produção" briefDescription="Disponibilizar sistema em produção">
+            <methodElementProperty xmi:id="_SW-kRk4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TRizME4rEfC8SdflWuDbrQ" name="11-cadastrar_solicitacao_suporte" guid="_TRizME4rEfC8SdflWuDbrQ" presentationName="11-Cadastrar_Solicitacao_Suporte" performedBy="_H53iUDs9EfCjyuend5h0kw" mandatoryInput="_zEkR8Ds9EfCjyuend5h0kw">
+            <methodElementProperty xmi:id="_SW-kR04yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+            <presentation xmi:id="-USO6V0n37b-KCSKxeOuJyg" href="uma://-USO6V0n37b-KCSKxeOuJyg#-USO6V0n37b-KCSKxeOuJyg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xlQXYE4tEfC8SdflWuDbrQ" name="relatorio_de_roteiro_de_treinamento" guid="_xlQXYE4tEfC8SdflWuDbrQ" presentationName="Relatorio de Roteiro de Treinamento">
+            <methodElementProperty xmi:id="_SW_LQE4yEfCSLMqBtmMLOw" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_iC_HrTs6EfCjyuend5h0kw" name="CapabilityPatterns" guid="_iC_HrTs6EfCjyuend5h0kw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_iC_Hrjs6EfCjyuend5h0kw" name="DeliveryProcesses" guid="_iC_Hrjs6EfCjyuend5h0kw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_cWIggE4oEfC8SdflWuDbrQ" href="uma://_cWIggE4oEfC8SdflWuDbrQ#_cWIggE4oEfC8SdflWuDbrQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_iC_Hrzs6EfCjyuend5h0kw" name="ProcessContributions" guid="_iC_Hrzs6EfCjyuend5h0kw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

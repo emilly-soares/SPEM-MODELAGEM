@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-USO6V0n37b-KCSKxeOuJyg" name=",_TRizME4rEfC8SdflWuDbrQ" guid="-USO6V0n37b-KCSKxeOuJyg" authors="elrison,maiza,emily" changeDate="2025-06-20T19:22:18.224-0400" version="1.0">
+  <mainDescription>Esta tarefa descreve os passos que um usuário deve seguir para solicitar suporte. Isso inclui a identificação do problema,&#xD;
+a escolha do canal de comunicação (ex: sistema de chamados, e-mail, telefone) e o fornecimento das informações necessárias&#xD;
+para que o suporte possa ser prestado de forma eficaz.</mainDescription>
+  <keyConsiderations>A clareza na descrição do problema é fundamental para agilizar o atendimento. Definir canais de comunicação de suporte&#xD;
+acessíveis. Incentivar o usuário a verificar a documentação antes de solicitar suporte.</keyConsiderations>
+  <sections xmi:id="_2J1LQE4sEfC8SdflWuDbrQ" name="Usuario acessa sistema de chamados" guid="_2J1LQE4sEfC8SdflWuDbrQ"/>
+  <sections xmi:id="_4YSm4E4sEfC8SdflWuDbrQ" name="Usuario cadastra a solicitação" guid="_4YSm4E4sEfC8SdflWuDbrQ"/>
+  <sections xmi:id="_6FkoEE4sEfC8SdflWuDbrQ" guid="_6FkoEE4sEfC8SdflWuDbrQ"/>
+  <purpose>Permitir que os usuários reportem problemas, tirem dúvidas ou solicitem auxílio técnico para garantir o uso contínuo e&#xD;
+eficiente do sistema.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

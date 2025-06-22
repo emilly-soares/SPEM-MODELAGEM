@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ByR1pNkJ_qDDjlQ6uZhNjw" name=",_pk_FsEZMEfCuHKNutCCF2A" guid="-ByR1pNkJ_qDDjlQ6uZhNjw">
+  <sections xmi:id="_9qzH8EZNEfCuHKNutCCF2A" name="Receber demanda do Analista de Sistemas" guid="_9qzH8EZNEfCuHKNutCCF2A"/>
+  <sections xmi:id="_BonoYEZOEfCuHKNutCCF2A" name="Analisar documentação recebida" guid="_BonoYEZOEfCuHKNutCCF2A"/>
+  <sections xmi:id="_EH35EEZOEfCuHKNutCCF2A" name="Validar os dados migrados" guid="_EH35EEZOEfCuHKNutCCF2A"/>
+  <sections xmi:id="_Gi2GsEZOEfCuHKNutCCF2A" name="elaborar relatorio de validação da migração" guid="_Gi2GsEZOEfCuHKNutCCF2A"/>
+</org.eclipse.epf.uma:TaskDescription>
