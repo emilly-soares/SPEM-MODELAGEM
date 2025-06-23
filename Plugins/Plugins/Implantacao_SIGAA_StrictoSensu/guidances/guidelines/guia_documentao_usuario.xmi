@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_nAGzxsWsgy4Nw4ylLf1EA" name="new_guideline,_l_Kt0EYFEfCuHKNutCCF2A" guid="-_nAGzxsWsgy4Nw4ylLf1EA" authors="elrison,maiza emily" changeDate="2025-06-10T10:18:26.436-0400" changeDescription="Criação de Guide&#x9;" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    A Documentação do Usuário é crucial para a autonomia dos usuários e para reduzir a carga sobre a equipe de suporte.&#xD;
+    Para garantir sua eficácia, considere as seguintes orientações:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;**Linguagem Clara e Simples: Evite jargões técnicos sempre que possível. Use frases curtas e diretas.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;**Foco no Usuário: Pense nas tarefas que o usuário precisa realizar e estruture a documentação em torno dessas&#xD;
+    tarefas (orientada a cenários).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    **Uso de Elementos Visuais: Inclua capturas de tela, diagramas e vídeos para ilustrar os passos e conceitos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    **Organização e Pesquisa: Utilize índices, sumários, hiperlinks e palavras-chave para facilitar a navegação e a&#xD;
+    pesquisa.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;**Acessibilidade: Garanta que a documentação seja acessível a todos os usuários, incluindo aqueles com&#xD;
+    necessidades especiais.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    **Atualização Contínua: Revise e atualize a documentação regularmente para refletir novas funcionalidades, mudanças no&#xD;
+    sistema ou feedback dos usuários.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;**Canais de Feedback: Inclua um mecanismo para os usuários darem feedback sobre a documentação, permitindo&#xD;
+    melhorias. *&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    **Padrões de Escrita:*Defina e siga um estilo de escrita consistente em toda a documentação.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

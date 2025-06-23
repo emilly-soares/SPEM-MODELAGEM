@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-A1aoFKxVni1wpO40mN7UoA" name="new_artifact,_33kEoEW2EfCvEol5Is7bGg" guid="-A1aoFKxVni1wpO40mN7UoA" authors="elrison,emily,maiza" changeDate="2025-06-10T01:56:01.963-0300" changeDescription="Criação inicial do Work Product." version="1.0">
+  <mainDescription>Este relatório consolida as informações sobre a migração de dados do sistema SGP para o SIGAA. Inclui estatísticas sobre o&#xD;
+número de registros lidos, transferidos e validados, a taxa de sucesso da migração, a lista de erros ou inconsistências&#xD;
+encontradas, e o status final da migração (completa, parcial, falha).</mainDescription>
+  <keyConsiderations>O relatório deve ser claro, conciso e objetivo. Deve incluir um resumo executivo para facilitar a tomada de decisões. Deve&#xD;
+ser gerado automaticamente ao final do processo de migração.</keyConsiderations>
+  <purpose>Fornecer uma visão geral do processo de migração, indicando o sucesso da transferência de dados e identificando quaisquer&#xD;
+problemas ou inconsistências.</purpose>
+  <impactOfNotHaving>A ausência do relatório dificulta o acompanhamento e a validação da migração, aumentando o risco de erros não detectados.</impactOfNotHaving>
+  <reasonsForNotNeeding>Não aplicável, pois é um artefato essencial para a garantia da qualidade da migração.</reasonsForNotNeeding>
+  <briefOutline>O relatório é gerado automaticamente ao final da execução da tarefa &quot;Migrar Dados&quot;.</briefOutline>
+  <representation>Documento de texto (PDF), planilha eletrônica (Excel), ou formato de relatório específico da ferramenta de migração.</representation>
+  <notation>Tabelas, gráficos (se aplicável).</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Mh6oINTHfcbXihdxOldS_A" name="Analista_de_Banco_de_Dados,_su4oYEWoEfCvEol5Is7bGg" guid="-Mh6oINTHfcbXihdxOldS_A" authors="elrison,maiza,emily" changeDate="2025-06-22T17:48:04.294-0300" changeDescription="Criação inicial do papel." version="1.0">
+  <mainDescription>O Analista de Banco de Dados é o profissional responsável por garantir a integridade, segurança e performance dos bancos de&#xD;
+dados da instituição. Em projetos de implantação este papel também é responsável por auxiliar o Analista de Sistema nas&#xD;
+atividades relacionadas à migração de dados, além de revisar as rotinas de migração desenvolvidas. Este papel está alocado&#xD;
+na DS.</mainDescription>
+  <skills>Administração de Banco de Dados (DBA); SQL; Otimização de consultas; Planejamento de migração de dados; Revisão de scripts&#xD;
+de migração; Segurança de dados;Backup e Recuperação;Ferramentas de Monitoramento.</skills>
+  <synonyms>DBA</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

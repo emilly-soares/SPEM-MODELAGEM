@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-V4YXkjzu0GZZU5TbCoHf0w" name="Relatório de Validação da Migração,_qeGCgEZNEfCuHKNutCCF2A" guid="-V4YXkjzu0GZZU5TbCoHf0w">
+  <mainDescription>Relatório contendo todos os itens levantados pela equipe responsável pela validação da migração de dados (Sugestões, erros,&#xD;
+falhas), este relatório é encaminhado para os Analistas de Sistema responsáveis por realizar a migração para os ajustes&#xD;
+necessários caso houverem.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

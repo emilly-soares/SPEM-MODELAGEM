@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WGvrFYlADVNCaCh-ObuQVA" name="new_artifact,_ryuEoEW0EfCvEol5Is7bGg" guid="-WGvrFYlADVNCaCh-ObuQVA" authors="elrison,emily,maiza" changeDate="2025-06-10T01:39:08.944-0300" changeDescription="Criação inicial do Work Product." version="1.0">
+  <mainDescription>Este produto de trabalho é um documento técnico que define como cada elemento de dado no sistema de origem (SGP) se&#xD;
+relaciona com o correspondente elemento no sistema de destino (SIGAA). Inclui informações sobre tipo de dado, formato,&#xD;
+regras de transformação, chaves primárias e estrangeiras, e quaisquer exceções ou considerações especiais para cada campo.</mainDescription>
+  <keyConsiderations>A precisão do mapeamento é fundamental para evitar perda ou corrupção de dados. Deve ser validado por especialistas do&#xD;
+negócio e técnicos de ambos os sistemas. As regras de transformação devem ser claramente documentadas e implementadas.</keyConsiderations>
+  <purpose>Garantir que os dados sejam corretamente transferidos e transformados do sistema legado para o novo sistema, mantendo a&#xD;
+integridade e a semântica da informação.</purpose>
+  <reasonsForNotNeeding>Sem o mapeamento, a migração de dados seria inconsistente e resultaria em erros e perda de informações.</reasonsForNotNeeding>
+  <briefOutline>O mapeamento é desenvolvido através da análise dos esquemas de banco de dados e modelos de dados de ambos os sistemas.</briefOutline>
+  <representation>Documento de texto (Word, PDF), planilha eletrônica (Excel), ou ferramenta de modelagem de dados (UML, ERD).</representation>
+  <notation>Tabelas comparativas; Diagramas de mapeamento de dados (se aplicável).</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-q_bG24aCn_4moTSa2zl6IA" name="Gerente de Projeto,_i1yLoDs8EfCjyuend5h0kw" guid="-q_bG24aCn_4moTSa2zl6IA" authors="elrison, emily,maiza" changeDate="2025-06-10T00:05:01.715-0300" changeDescription="Criação de papel inicial" version="1.0">
+  <mainDescription>O Gerente de Projeto é responsável por planejar, executar e monitorizar o projeto de implantação do sistema, garantindo que&#xD;
+ele seja entregue dentro do prazo, do orçamento e com a qualidade esperada. Este papel está alocado na DDS.</mainDescription>
+  <skills>Gerenciamento de projetos (PMBOK/práticas ágeis); Planeamento estratégico; Gestão de riscos; Comunicação; Liderança;&#xD;
+Negociação.</skills>
+</org.eclipse.epf.uma:RoleDescription>

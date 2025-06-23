@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jPO9R-bi8uBAGCAf9sCHvg" name="new_role,_dwFGwEWoEfCvEol5Is7bGg" guid="-jPO9R-bi8uBAGCAf9sCHvg" authors="elrison, emili,maiza" changeDate="2025-06-09T23:11:27.145-0400" changeDescription="Criação de papel inicial." version="1.0">
+  <mainDescription>O Analista de Infraestrutura de Sistemas é o profissional responsável pelas atualizações de versão do sistema, por realizar&#xD;
+os merges necessários no repositório de código e pela disponibilização do sistema nos ambientes de teste, homologação e&#xD;
+produção. Este papel está alocado principalmente na DDS, embora, quando necessário, analistas vinculados à DS também possam&#xD;
+ser acionados para apoiar nas atividades.</mainDescription>
+  <skills>Administração de sistemas; Gerenciamento de repositórios de código (Git/SVN); Automação de deploy; Gerenciamento de&#xD;
+ambientes (teste, homologação, produção); Conhecimento em infraestrutura de TI.</skills>
+</org.eclipse.epf.uma:RoleDescription>

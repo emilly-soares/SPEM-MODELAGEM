@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vD1-9lO7eVNPoI162Ir9_g" name="Relatorio_de_Plano_de_Testes,_1xwYcE-rEfC2uqZ-LeFHvA" guid="-vD1-9lO7eVNPoI162Ir9_g" changeDate="2025-06-22T18:06:15.098-0300">
+  <mainDescription>Relatório que descreve o objetivo, o escopo, a abordagem, os recursos necessários, para a execução de uma rodada de testes,&#xD;
+além dos dados mencionados anteriormente, neste documento também é relatado todos os casos de testes que devem ser&#xD;
+aplicados para o escopo definido.</mainDescription>
+  <keyConsiderations>Plano de testes, Casos de Teste, escopo, objetivo</keyConsiderations>
+</org.eclipse.epf.uma:ArtifactDescription>

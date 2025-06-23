@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--DH7nC_RWNZeQG9yMrPbgw" name="new_artifact,_IU_LQEW1EfCvEol5Is7bGg" guid="--DH7nC_RWNZeQG9yMrPbgw" authors="elrison,emily,maiza" changeDate="2025-06-10T01:42:09.894-0300" changeDescription="Criação inicial do Work Product." version="1.0">
+  <mainDescription>Este plano detalha as etapas, responsabilidades, pré-requisitos, ferramentas, procedimentos de extração, transformação e&#xD;
+carga (ETL), estratégias de validação, planos de contingência e rollback, cronograma e recursos necessários para a migração&#xD;
+dos dados do sistema legado para o novo sistema.</mainDescription>
+  <keyConsiderations>Deve contemplar a complexidade dos dados e a volumetria. Incluir planos de teste e validação rigorosos. Definir claramente&#xD;
+os papéis e responsabilidades de cada envolvido. Considerar janelas de manutenção e impactos operacionais.</keyConsiderations>
+  <purpose>Orientar e controlar todas as atividades envolvidas na migração dos dados do sistema SGP para o SIGAA, minimizando riscos e&#xD;
+garantindo a integridade dos dados.</purpose>
+  <impactOfNotHaving>A ausência do plano pode levar a migrações desorganizadas, erros, perda de dados e atrasos no projeto.</impactOfNotHaving>
+  <reasonsForNotNeeding>&lt;p data-sourcepos=&quot;52:5-61:0&quot;>&#xD;
+    &lt;code role=&quot;text&quot; class=&quot;code-container formatted ng-tns-c1667500651-285 no-decoration-radius&quot;&#xD;
+    data-sourcepos=&quot;58:13-60:102&quot; data-test-id=&quot;code-content&quot;>Não aplicável, pois é um artefato crítico para a segurança e&#xD;
+    sucesso da migração de dados.&lt;br />&#xD;
+    &lt;/code>&#xD;
+&lt;/p></reasonsForNotNeeding>
+  <briefOutline>O plano é elaborado na fase inicial do projeto de migração e é revisado e aprovado pelas partes interessadas.</briefOutline>
+  <representation>Documento de texto (Word, PDF), ou diagrama de fluxo de processos.</representation>
+  <notation>Formato de documento textual, diagramas de fluxo (BPMN ou similar).</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

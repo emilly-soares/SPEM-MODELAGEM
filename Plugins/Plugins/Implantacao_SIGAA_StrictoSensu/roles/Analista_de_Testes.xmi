@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5vz4L0oRmSk5N_gzWPdXbQ" name="new_role,_sHsiME-QEfC2uqZ-LeFHvA" guid="-5vz4L0oRmSk5N_gzWPdXbQ" changeDate="2025-06-22T17:56:43.163-0300">
+  <mainDescription>Profissional reponsável pela garantia da qualidade e a confiabilidade dos sistemas, elaborando o plano de testes, criação e&#xD;
+execução dos casos de testes em funcionalidades, testes de desempenho, testes de usabilidade e também testes de segurança.&#xD;
+Este profissional atua na detecção de falhas no software que irá ser implantado desta forma colaborando com a equipe de&#xD;
+implantação bem como auxiliando os clientes a entender as regras de negócio do sistema em questão, também atuando&#xD;
+diretamente na validação dos dados migrados.</mainDescription>
+  <skills>Conhecimento de Metodologias de Testes;Automação de Testes;Testes de Performance e Carga;Testes de Banco de&#xD;
+Dados;Ferramentas de Gerenciamento de Defeitos e Testes; Capacidade de Análise de Requisitos; Atenção aos&#xD;
+Detalhes;Pensamento Crítico e Resolução de Problemas; Comunicação Clara e Eficaz; Colaboração e Trabalho em Equipe;</skills>
+</org.eclipse.epf.uma:RoleDescription>

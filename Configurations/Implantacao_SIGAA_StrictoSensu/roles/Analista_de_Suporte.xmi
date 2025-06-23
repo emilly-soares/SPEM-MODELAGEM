@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YzTclI6ltJ1XeRzPmlHJBg" name="Analista_de_Suporte,_GJph4Ds9EfCjyuend5h0kw" guid="-YzTclI6ltJ1XeRzPmlHJBg" authors="elrison,maiza,emily" changeDate="2025-06-22T17:51:17.030-0300" changeDescription="Criação de papel inicial" version="1.0">
+  <mainDescription>O Analista de Suporte é responsável por fornecer suporte técnico aos usuários, atuando na resolução de dúvidas&#xD;
+e&amp;nbsp;problemas em relação ao sistema. Também é responsável como ponto de contato entre usuário final e a equipe técnica&#xD;
+responsável pelo projeto.Este papel está alocado na DDS.</mainDescription>
+  <skills>Suporte técnico; Resolução de problemas; Comunicação; Conhecimento do sistema (SIGAA); Atendimento ao usuário; Organização.</skills>
+</org.eclipse.epf.uma:RoleDescription>

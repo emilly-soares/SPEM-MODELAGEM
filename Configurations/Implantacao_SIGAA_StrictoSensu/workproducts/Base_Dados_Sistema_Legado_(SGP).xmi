@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yl9qHnsNINX-qNer7oV1fw" name="new_artifact,_yjTdEEWzEfCvEol5Is7bGg" guid="-yl9qHnsNINX-qNer7oV1fw" changeDate="2025-06-10T01:34:08.145-0300" changeDescription="Criação inicial do Work Product." version="1.0">
+  <mainDescription>Este produto de trabalho representa a totalidade dos dados extraídos do sistema acadêmico legado (SGP). Inclui dados de&#xD;
+alunos, docentes, matrículas, histórico escolar, informações financeiras e outras categorias relevantes para o&#xD;
+funcionamento do SIGAA. Sua estrutura pode variar conforme o formato da extração (ex: arquivos CSV, XML, dumps de banco de&#xD;
+dados).</mainDescription>
+  <keyConsiderations>A qualidade e a integridade dos dados de origem são críticas para o sucesso da migração. Deve-se garantir a segurança e a&#xD;
+confidencialidade dos dados durante a extração e o armazenamento temporário. A volumetria dos dados pode impactar o tempo e&#xD;
+os recursos necessários para a migração.</keyConsiderations>
+  <purpose>Servir como a fonte original de informações para a migração e carregamento no novo sistema SIGAA, garantindo a preservação&#xD;
+do histórico de dados.</purpose>
+  <impactOfNotHaving>A ausência desses dados impede a continuidade do histórico e a funcionalidade completa do SIGAA.</impactOfNotHaving>
+  <reasonsForNotNeeding>Não aplicável, pois é um artefato essencial para a implantação.</reasonsForNotNeeding>
+  <briefOutline>Os dados são obtidos através de exportação direta do banco de dados do SGP ou de relatórios/extrações específicas.</briefOutline>
+  <representation>Arquivos de texto delimitados (CSV), planilhas eletrônicas, dumps de banco de dados, ou formato XML.</representation>
+  <notation>&lt;p>&#xD;
+    SQL,DDL,NOSQL,XML,SCHEMA&#xD;
+&lt;/p></notation>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xzDixnroL25WDRaDNLCwAQ" name="07-Homologar_Migracao_de_Dados_Cliente,_QiauMEZOEfCuHKNutCCF2A" guid="-xzDixnroL25WDRaDNLCwAQ">
+  <mainDescription>Etapa em que a parte que o cliente(usuário) irá realizar a homologação de dados migrados, para realizar esta etapa é&#xD;
+necessário que exista um ambiente com o sistema disponível (homologação)</mainDescription>
+  <sections xmi:id="_ixZAEEZOEfCuHKNutCCF2A" name="Receber demanda" guid="_ixZAEEZOEfCuHKNutCCF2A"/>
+  <sections xmi:id="_txNvkFBSEfCxvIjacSm1BQ" name="Analisar demanda" guid="_txNvkFBSEfCxvIjacSm1BQ"/>
+  <sections xmi:id="_qOqO0FBSEfCxvIjacSm1BQ" name="Usuário deve acessar o sistema" guid="_qOqO0FBSEfCxvIjacSm1BQ">
+    <sectionDescription>&lt;p>&#xD;
+    Pré-Requisitos:&lt;br />&#xD;
+    O sistema deve estar em ambiente de homologação&amp;nbsp;ou testes,com base de dados atualizada&lt;br />&#xD;
+    O usuário deve possuir credenciais de acesso válidas&lt;br />&#xD;
+    O usuário deve possuir nível de acesso liberado para a interface desejada&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_jouQsEZOEfCuHKNutCCF2A" name="Homologar dados" guid="_jouQsEZOEfCuHKNutCCF2A"/>
+  <sections xmi:id="_lixikEZOEfCuHKNutCCF2A" name="Elaborar Relatório da Homologação" guid="_lixikEZOEfCuHKNutCCF2A"/>
+</org.eclipse.epf.uma:TaskDescription>

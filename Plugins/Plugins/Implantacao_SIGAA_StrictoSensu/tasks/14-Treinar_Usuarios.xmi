@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qpdJ8EIIdqwsaD1tnnOZvQ" name="Treinar Usuários,_VrWVMDs9EfCjyuend5h0kw" guid="-qpdJ8EIIdqwsaD1tnnOZvQ">
+  <sections xmi:id="_tlCNwE4uEfC8SdflWuDbrQ" name="Agendar Treinamento" guid="_tlCNwE4uEfC8SdflWuDbrQ"/>
+  <sections xmi:id="_vNkR0E4uEfC8SdflWuDbrQ" name="Comunicar usuários interessados" guid="_vNkR0E4uEfC8SdflWuDbrQ"/>
+  <sections xmi:id="_xdE2UE4uEfC8SdflWuDbrQ" name="Definir Forma do Treinamento(Presencial ou Remoto)" guid="_xdE2UE4uEfC8SdflWuDbrQ"/>
+  <sections xmi:id="_1j1QUE4uEfC8SdflWuDbrQ" name="Reservar Sala" guid="_1j1QUE4uEfC8SdflWuDbrQ"/>
+  <sections xmi:id="_4CwJ0E4uEfC8SdflWuDbrQ" name="Repassar Treinamento" guid="_4CwJ0E4uEfC8SdflWuDbrQ"/>
+  <sections xmi:id="_8LPpME4uEfC8SdflWuDbrQ" name="Gerar Relatório da Execução" guid="_8LPpME4uEfC8SdflWuDbrQ"/>
+</org.eclipse.epf.uma:TaskDescription>

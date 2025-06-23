@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-r1XeHTvX_xP01neUEDU3hw" name="new_artifact,_xiLv8EYDEfCuHKNutCCF2A" guid="-r1XeHTvX_xP01neUEDU3hw" authors="elrison,emily,maiza" changeDate="2025-06-10T10:04:49.401-0400" changeDescription="Criação inicial do Work Product." version="1.0">
+  <mainDescription>Este produto de trabalho é um sistema ou repositório que armazena artigos, FAQs, tutoriais, guias de solução de problemas e&#xD;
+outras informações úteis sobre o sistema SIGAA. As informações são organizadas, indexadas e pesquisáveis, permitindo que os&#xD;
+usuários encontrem rapidamente as respostas que precisam. A base de conhecimento é mantida e atualizada pela equipe de&#xD;
+suporte.</mainDescription>
+  <keyConsiderations>A base de conhecimento deve ser fácil de usar e pesquisar. As informações devem ser precisas, claras e concisas. A base de&#xD;
+conhecimento deve ser mantida atualizada e revisada regularmente.</keyConsiderations>
+  <purpose>Permitir que usuários e equipe de suporte encontrem rapidamente soluções para problemas e respostas para dúvidas,&#xD;
+promovendo a autossuficiência e reduzindo o tempo de resolução.</purpose>
+  <impactOfNotHaving>A ausência da base de conhecimento aumenta a carga da equipe de suporte e diminui a eficiência na resolução de problemas.</impactOfNotHaving>
+  <reasonsForNotNeeding>Não aplicável, pois é um artefato importante para o suporte contínuo ao sistema.</reasonsForNotNeeding>
+  <briefOutline>Disponibilizada online, geralmente através de um sistema de gerenciamento de conhecimento (ex: wiki, sistema de help desk).</briefOutline>
+  <representation>Páginas web, artigos em formato HTML, documentos PDF, vídeos.</representation>
+  <notation>Linguagem clara e direta, palavras-chave, categorias, links internos.</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

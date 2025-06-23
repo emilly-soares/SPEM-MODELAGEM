@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oUJtsVDZBllmaK-Beb7R4A" name="01-acordar_demanda,_dSDU8E7SEfC0CN7lpCrVng" guid="-oUJtsVDZBllmaK-Beb7R4A">
+    <keyConsiderations>acordo, início, formalização</keyConsiderations>
+    <refinedDescription>Documento (e-mail) contendo o acordo de cooperação entre as partes interessadas (SETI e PROPEPG) formalizando o inicio do&#xD;
+projeto de implantação do módulo do stricto</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-4NV0Q6Y1DsIqcGPnq46D2A" name="Gerente de Projeto,_dSD8AE7SEfC0CN7lpCrVng" guid="-4NV0Q6Y1DsIqcGPnq46D2A">
+    <refinedDescription>O Gerente de Projeto é responsável por planejar, executar e monitorizar o projeto de implantação do sistema, garantindo que&#xD;
+ele seja entregue dentro do prazo, do orçamento e com a qualidade esperada. Este papel está alocado na DDS.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-y1WDxxo42H1-YxVFP7vMfA" name="Analista de Negócios,_dSD8Ak7SEfC0CN7lpCrVng" guid="-y1WDxxo42H1-YxVFP7vMfA">
+    <refinedDescription>&lt;p>&#xD;
+    Profissional responsável por realizar o levantamento de requisitos, entender o contexto atual e&amp;nbsp;definir&#xD;
+    o&amp;nbsp;cenário que deseja ser alcançado, avaliar os impactos da nova solução,avaliar a compatibilidade entre os&#xD;
+    sistemas SGP x SIGAA, identificar riscos inerentes ao proesso de implantação, mapear os processos existentes e propor&#xD;
+    melhorias para alinhamento ao novo sistema, facilitar a comunicação entre cliente e equipe técnica, gerenciar as&#xD;
+    expectativas, acompanhar os testes da nova aplicação, apoiar a elaboração de manuais, acompanhar treinamentos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Este papel está alocado na DDS&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xLm0iXC8IB7XIkqYPfewOw" name="Usuário,_dSD8BE7SEfC0CN7lpCrVng" guid="-xLm0iXC8IB7XIkqYPfewOw">
+    <refinedDescription>Profissionais que estão alocados nas&amp;nbsp; estruturas organizacionais que irão realizar o gerenciamento da nova&#xD;
+ferramenta&amp;nbsp;(DDPS, DGP, PROPEPG),estes&amp;nbsp;usuários&amp;nbsp;serão&amp;nbsp;referencia para os usuários finais do novo sistema&#xD;
+(docentes e&amp;nbsp;TAEs dos campi da UFFS), &amp;nbsp;são responsáveis por testar o sistema com o intuito de compreender&amp;nbsp;o&#xD;
+funcionamento da nova ferramenta e com isso poderem adequar os fluxos dos processos, também são responsáveis pela validação&#xD;
+das etapas de migração de dados.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-a9ZxUKWBQXX4g3mrOaW8bA" name="03-aprovar_cronograma,_eYmtUE7SEfC0CN7lpCrVng" guid="-a9ZxUKWBQXX4g3mrOaW8bA">
+    <refinedDescription>Cliente irá avaliar o cronograma proposto pela equipe de implantação, realizar as negociações necessárias até as equipes&#xD;
+chegarem a um consenso. Esta tarefa é finalizada com a formalização da aceite do cronograma que poderá acontecer via&#xD;
+e-mail;</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-qy4ZUCKfzNoRvuZJQYDbvA" name="cronograma_de_implantao,_eYnUYE7SEfC0CN7lpCrVng" guid="-qy4ZUCKfzNoRvuZJQYDbvA">
+    <refinedDescription>Documento com toda a descrição das etapas do processo de implantação do novo sistema e suas respectivas datas, relação da&#xD;
+equipe que irá compor este projeto, relação de todas as datas que devem ser consideradas para a elaboração do cronograma&#xD;
+(férias, licenças)</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Aoq6bBCbDmJtNSKRYhTDWg" name="02-Definir_Cronograma,_xyvwgFBAEfCxvIjacSm1BQ" guid="-Aoq6bBCbDmJtNSKRYhTDWg">
+    <refinedDescription>&lt;p>&#xD;
+    Etapa em que a equipe responsável pela implantação irá realizar o planejamento para a definição de um cronograma de&#xD;
+    implantação, neste etapa será analisado:&amp;nbsp;o material humano disponível para o projeto; agenda de férias, agenda de&#xD;
+    licenças.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5CYQZqnCtu4NjGW6W3aP3A" name="Analista_de_Banco_de_Dados,_xywXkFBAEfCxvIjacSm1BQ" guid="-5CYQZqnCtu4NjGW6W3aP3A">
+    <refinedDescription>O Analista de Banco de Dados é o profissional responsável por garantir a integridade, segurança e performance dos bancos de&#xD;
+dados da instituição. Em projetos de implantação este papel também é responsável por auxiliar o Analista de Sistema nas&#xD;
+atividades relacionadas à migração de dados, além de revisar as rotinas de migração desenvolvidas. Este papel está alocado&#xD;
+na DS.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-RtJYQa1OavNJ1Xve88bAGg" name="Analista_de_Sistemas,_xywXklBAEfCxvIjacSm1BQ" guid="-RtJYQa1OavNJ1Xve88bAGg">
+    <refinedDescription>O Analista de Sistema é o profissional responsável por analisar os fluxos do sistema, realizar correções e adequações no&#xD;
+código-fonte, bem como realizar a migração dos dados. Este papel está alocado principalmente na DDS, embora, quando&#xD;
+necessário, analistas de sistemas vinculados à DS também possam ser acionados para apoiar nas atividades.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lv8mogcScEJM1VHXCb-_NA" name="Analista_de_Testes,_xywXlFBAEfCxvIjacSm1BQ" guid="-lv8mogcScEJM1VHXCb-_NA">
+    <refinedDescription>Profissional reponsável pela garantia da qualidade e a confiabilidade dos sistemas, elaborando o plano de testes, criação e&#xD;
+execução dos casos de testes em funcionalidades, testes de desempenho, testes de usabilidade e também testes de segurança.&#xD;
+Este profissional atua na detecção de falhas no software que irá ser implantado desta forma colaborando com a equipe de&#xD;
+implantação bem como auxiliando os clientes a entender as regras de negócio do sistema em questão, também atuando&#xD;
+diretamente na validação dos dados migrados.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_R4NJqVLLD3SK05Yk7JWgw" name="Relatorio_de_Plano_de_Testes,_xy5hgVBAEfCxvIjacSm1BQ" guid="-_R4NJqVLLD3SK05Yk7JWgw">
+    <keyConsiderations>Plano de testes, Casos de Teste, escopo, objetivo</keyConsiderations>
+    <refinedDescription>Relatório que descreve o objetivo, o escopo, a abordagem, os recursos necessários, para a execução de uma rodada de testes,&#xD;
+além dos dados mencionados anteriormente, neste documento também é relatado todos os casos de testes que devem ser&#xD;
+aplicados para o escopo definido.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-420s3fJpIGNBvnqnlrEXvw" name="Relatorio_de_Validacao_da_Migracao,_xy5hh1BAEfCxvIjacSm1BQ" guid="-420s3fJpIGNBvnqnlrEXvw">
+    <refinedDescription>Relatório contendo todos os itens levantados pela equipe responsável pela validação da migração de dados (Sugestões, erros,&#xD;
+falhas), este relatório é encaminhado para os Analistas de Sistema responsáveis por realizar a migração para os ajustes&#xD;
+necessários caso houverem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-iE0rgeEuOLlP9G8uK8E6fQ" name="Mapeamento_de_Dados,_xy6volBAEfCxvIjacSm1BQ" guid="-iE0rgeEuOLlP9G8uK8E6fQ">
+    <keyConsiderations>A precisão do mapeamento é fundamental para evitar perda ou corrupção de dados. Deve ser validado por especialistas do&#xD;
+negócio e técnicos de ambos os sistemas. As regras de transformação devem ser claramente documentadas e implementadas.</keyConsiderations>
+    <refinedDescription>Este produto de trabalho é um documento técnico que define como cada elemento de dado no sistema de origem (SGP) se&#xD;
+relaciona com o correspondente elemento no sistema de destino (SIGAA). Inclui informações sobre tipo de dado, formato,&#xD;
+regras de transformação, chaves primárias e estrangeiras, e quaisquer exceções ou considerações especiais para cada campo.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-68NMZ3GDdbMAMIKMgs5-vg" name="Relatorio_de_Migracao_(analista_sistemas),_xy6vpVBAEfCxvIjacSm1BQ" guid="-68NMZ3GDdbMAMIKMgs5-vg">
+    <keyConsiderations>O relatório deve ser claro, conciso e objetivo. Deve incluir um resumo executivo para facilitar a tomada de decisões. Deve&#xD;
+ser gerado automaticamente ao final do processo de migração.</keyConsiderations>
+    <refinedDescription>Este relatório consolida as informações sobre a migração de dados do sistema SGP para o SIGAA. Inclui estatísticas sobre o&#xD;
+número de registros lidos, transferidos e validados, a taxa de sucesso da migração, a lista de erros ou inconsistências&#xD;
+encontradas, e o status final da migração (completa, parcial, falha).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-yvtJc2VFhTtVXqQ6FKU_VA" name="05-Migrar Dados,_hJh80E7SEfC0CN7lpCrVng" guid="-yvtJc2VFhTtVXqQ6FKU_VA">
+    <keyConsiderations>A migração deve ser realizada em ambiente controlado. É crucial planejar o tempo de inatividade necessário para a migração.&#xD;
+Deve-se garantir a segurança dos dados durante todo o processo.</keyConsiderations>
+    <refinedDescription>Esta tarefa envolve a extração de dados do sistema SGP, a sua transformação para o formato compatível com o SIGAA, e a&#xD;
+carga final para o banco de dados do novo sistema. Inclui a validação da consistência e completude dos dados&#xD;
+migrados.&lt;br />&#xD;
+Esta etapa será executada diversas vezes de acordo com o planejado pelo documento Plano de Migração.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VkdFKLNHq7wllbQ_hJI_1Q" name="analista_de_sistemas,_hJh80U7SEfC0CN7lpCrVng" guid="-VkdFKLNHq7wllbQ_hJI_1Q">
+    <refinedDescription>O Analista de Sistema é o profissional responsável por analisar os fluxos do sistema, realizar correções e adequações no&#xD;
+código-fonte, bem como realizar a migração dos dados. Este papel está alocado principalmente na DDS, embora, quando&#xD;
+necessário, analistas de sistemas vinculados à DS também possam ser acionados para apoiar nas atividades.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-H9Ip8eDlyqdROXMfVy7-1w" name="analista_de_banco_de_dados,_hJh8007SEfC0CN7lpCrVng" guid="-H9Ip8eDlyqdROXMfVy7-1w">
+    <refinedDescription>O Analista de Banco de Dados é o profissional responsável por garantir a integridade, segurança e performance dos bancos de&#xD;
+dados da instituição. Em projetos de implantação este papel também é responsável por auxiliar o Analista de Sistema nas&#xD;
+atividades relacionadas à migração de dados, além de revisar as rotinas de migração desenvolvidas. Este papel está alocado&#xD;
+na DS.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QTCDXhHVQ3eFFNUbW6aIiw" name="Analista de Negócios,_hJh81U7SEfC0CN7lpCrVng" guid="-QTCDXhHVQ3eFFNUbW6aIiw">
+    <refinedDescription>&lt;p>&#xD;
+    Profissional responsável por realizar o levantamento de requisitos, entender o contexto atual e&amp;nbsp;definir&#xD;
+    o&amp;nbsp;cenário que deseja ser alcançado, avaliar os impactos da nova solução,avaliar a compatibilidade entre os&#xD;
+    sistemas SGP x SIGAA, identificar riscos inerentes ao proesso de implantação, mapear os processos existentes e propor&#xD;
+    melhorias para alinhamento ao novo sistema, facilitar a comunicação entre cliente e equipe técnica, gerenciar as&#xD;
+    expectativas, acompanhar os testes da nova aplicação, apoiar a elaboração de manuais, acompanhar treinamentos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Este papel está alocado na DDS&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1FCTzZzieBVoqJEW_yIkyg" name="mapeamento_de_dados,_hJh8107SEfC0CN7lpCrVng" guid="-1FCTzZzieBVoqJEW_yIkyg">
+    <keyConsiderations>A precisão do mapeamento é fundamental para evitar perda ou corrupção de dados. Deve ser validado por especialistas do&#xD;
+negócio e técnicos de ambos os sistemas. As regras de transformação devem ser claramente documentadas e implementadas.</keyConsiderations>
+    <refinedDescription>Este produto de trabalho é um documento técnico que define como cada elemento de dado no sistema de origem (SGP) se&#xD;
+relaciona com o correspondente elemento no sistema de destino (SIGAA). Inclui informações sobre tipo de dado, formato,&#xD;
+regras de transformação, chaves primárias e estrangeiras, e quaisquer exceções ou considerações especiais para cada campo.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ArXGZ4qHBtO0m13I_32FRA" name="dados_do_sistema_legado_sgp,_hJh82U7SEfC0CN7lpCrVng" guid="-ArXGZ4qHBtO0m13I_32FRA">
+    <keyConsiderations>A qualidade e a integridade dos dados de origem são críticas para o sucesso da migração. Deve-se garantir a segurança e a&#xD;
+confidencialidade dos dados durante a extração e o armazenamento temporário. A volumetria dos dados pode impactar o tempo e&#xD;
+os recursos necessários para a migração.</keyConsiderations>
+    <refinedDescription>Este produto de trabalho representa a totalidade dos dados extraídos do sistema acadêmico legado (SGP). Inclui dados de&#xD;
+alunos, docentes, matrículas, histórico escolar, informações financeiras e outras categorias relevantes para o&#xD;
+funcionamento do SIGAA. Sua estrutura pode variar conforme o formato da extração (ex: arquivos CSV, XML, dumps de banco de&#xD;
+dados).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-DbiimUrWhr3nrBbNItHycw" name="relatorio_de_migracao,_hJh83U7SEfC0CN7lpCrVng" guid="-DbiimUrWhr3nrBbNItHycw">
+    <keyConsiderations>O relatório deve ser claro, conciso e objetivo. Deve incluir um resumo executivo para facilitar a tomada de decisões. Deve&#xD;
+ser gerado automaticamente ao final do processo de migração.</keyConsiderations>
+    <refinedDescription>Este relatório consolida as informações sobre a migração de dados do sistema SGP para o SIGAA. Inclui estatísticas sobre o&#xD;
+número de registros lidos, transferidos e validados, a taxa de sucesso da migração, a lista de erros ou inconsistências&#xD;
+encontradas, e o status final da migração (completa, parcial, falha).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oYLDhpixKfF_3um199vc0Q" name="logs_de_erro_de_migracao,_hJh8307SEfC0CN7lpCrVng" guid="-oYLDhpixKfF_3um199vc0Q">
+    <keyConsiderations>O log deve ser completo e preciso. Cada erro deve ser registrado individualmente, com detalhes suficientes para permitir a&#xD;
+correção. O log deve ser formatado de forma que possa ser facilmente analisado e processado.</keyConsiderations>
+    <refinedDescription>Este log contém informações detalhadas sobre cada erro ou inconsistência encontrada durante a extração, transformação e&#xD;
+carga dos dados. Inclui a data e hora do erro, a descrição do erro, o registro afetado, o campo afetado, a origem do erro&#xD;
+(sistema SGP ou processo de migração), e a severidade do erro.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-73SWEw8-iba6_vazQ9UsXQ" name="Documentacao_de_Implantacao,_hJm1UU7SEfC0CN7lpCrVng" guid="-73SWEw8-iba6_vazQ9UsXQ">
+    <refinedDescription>Este relatório vai ser criado de acordo com as etapas da processo de migração, ele irá ser iniciado na etapa de Iniciação,&#xD;
+e só irá finalizar depois de firmado o termo de encerramento. Este relatório deve conter todas as informações sobre&#xD;
+problemas enfrentado nas etapas do processo de migração, qual foi a solução adotada para cada um dos problemas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-S58dIl9D1orT6KiGF1Zu2g" name="Usuário,_jnWqIU7SEfC0CN7lpCrVng" guid="-S58dIl9D1orT6KiGF1Zu2g">
+    <refinedDescription>Profissionais que estão alocados nas&amp;nbsp; estruturas organizacionais que irão realizar o gerenciamento da nova&#xD;
+ferramenta&amp;nbsp;(DDPS, DGP, PROPEPG),estes&amp;nbsp;usuários&amp;nbsp;serão&amp;nbsp;referencia para os usuários finais do novo sistema&#xD;
+(docentes e&amp;nbsp;TAEs dos campi da UFFS), &amp;nbsp;são responsáveis por testar o sistema com o intuito de compreender&amp;nbsp;o&#xD;
+funcionamento da nova ferramenta e com isso poderem adequar os fluxos dos processos, também são responsáveis pela validação&#xD;
+das etapas de migração de dados.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9IiM4hpgYE0Daz3cdqos-A" name="Relatorio de Migração Homologada,_xhBIoU7SEfC0CN7lpCrVng" guid="-9IiM4hpgYE0Daz3cdqos-A">
+    <refinedDescription>Relatório contendo todos os itens levantados pela equipe responsável pela homologação da migração de dados (Sugestões,&#xD;
+erros, falhas), este relatório é encaminhado para os Analistas de Sistema responsáveis por realizar a migração para os&#xD;
+ajustes necessários caso houverem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1aL1r6IluIj4MtSCqWdI8g" name="04-elaborar_plano_de_migracao,_NoaxwE-PEfC2uqZ-LeFHvA" guid="-1aL1r6IluIj4MtSCqWdI8g">
+    <keyConsiderations>migração, etapas</keyConsiderations>
+    <refinedDescription>Tarefa responsável por criar um documento descrevendo as etapas/entregas planejadas pela equipe de implantação para a&#xD;
+migração dos dados&amp;nbsp;&amp;nbsp;e também a&amp;nbsp;ordem em&amp;nbsp;que os dados serão migrados. Este documento abordará&#xD;
+também&amp;nbsp;o escopo dos dados que serão ou&amp;nbsp;não serão migrados</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TT_0e2EpqhvWEf6mkWAlWg" name="Relatório de Plano de Migração de Dados,_NobY0E-PEfC2uqZ-LeFHvA" guid="-TT_0e2EpqhvWEf6mkWAlWg">
+    <keyConsiderations>Deve contemplar a complexidade dos dados e a volumetria. Incluir planos de teste e validação rigorosos. Definir claramente&#xD;
+os papéis e responsabilidades de cada envolvido. Considerar janelas de manutenção e impactos operacionais.</keyConsiderations>
+    <refinedDescription>Este plano detalha as etapas, responsabilidades, pré-requisitos, ferramentas, procedimentos de extração, transformação e&#xD;
+carga (ETL), estratégias de validação, planos de contingência e rollback, cronograma e recursos necessários para a migração&#xD;
+dos dados do sistema legado para o novo sistema.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BZRWhF0GHKEzHvmxCOh56Q" name="Analista_de_Suporte,_NqyzgE-TEfC2uqZ-LeFHvA" guid="-BZRWhF0GHKEzHvmxCOh56Q">
+    <refinedDescription>O Analista de Suporte é responsável por fornecer suporte técnico aos usuários, atuando na resolução de dúvidas&#xD;
+e&amp;nbsp;problemas em relação ao sistema. Também é responsável como ponto de contato entre usuário final e a equipe técnica&#xD;
+responsável pelo projeto.Este papel está alocado na DDS.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1JdWFP3uP9MLrXlnmOzRZg" name="Cronograma_de_implantacao,_8YyAsU-0EfC2uqZ-LeFHvA" guid="-1JdWFP3uP9MLrXlnmOzRZg">
+    <refinedDescription>Documento com toda a descrição das etapas do processo de implantação do novo sistema e suas respectivas datas, relação da&#xD;
+equipe que irá compor este projeto, relação de todas as datas que devem ser consideradas para a elaboração do cronograma&#xD;
+(férias, licenças)</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Up5G0G1I3_Cqr9TxxkTLYQ" name="Relatorio_de_Execucao_do_Treinamento,_8Y9m4U-0EfC2uqZ-LeFHvA" guid="-Up5G0G1I3_Cqr9TxxkTLYQ">
+    <refinedDescription>Relatório onde sera relatado um resumo dos tópicos do treinamento, quem ministrou o mesmo, a lista de participantes, data e&#xD;
+hora da ocorrência</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-km88KiaeZxrwGUjyU_B60Q" name="Relatorio_de_Validacao_da_Migracao,_8ZGJwU-0EfC2uqZ-LeFHvA" guid="-km88KiaeZxrwGUjyU_B60Q">
+    <refinedDescription>Relatório contendo todos os itens levantados pela equipe responsável pela validação da migração de dados (Sugestões, erros,&#xD;
+falhas), este relatório é encaminhado para os Analistas de Sistema responsáveis por realizar a migração para os ajustes&#xD;
+necessários caso houverem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xueljpnpggbB_nbFrJ6Mvw" name="06-Validar_Dados_Migrados,_idtJUE-1EfC2uqZ-LeFHvA" guid="-xueljpnpggbB_nbFrJ6Mvw">
+    <keyConsiderations>O Analista de teste, deve conferir os dados migrados tanto diretamente na base de dados, quanto conferir nas interfaces&#xD;
+para verificar se os dados foram migrados de fato para as tabelas corretas.</keyConsiderations>
+    <refinedDescription>Etapa responsável por validar os&amp;nbsp; dados que foram migrados em uma determinada etapa e que foram entregues para a&#xD;
+equipe de testes realizar as análises necessárias. Esta etapa irá ocorrer diversas vezes de acordo com o planejado pelo&#xD;
+documento Plano de Migração de Dados.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-G0G5NxPxLRoHaA4kTBlnjA" name="Analista_de_Testes,_idtJUU-1EfC2uqZ-LeFHvA" guid="-G0G5NxPxLRoHaA4kTBlnjA">
+    <refinedDescription>Profissional reponsável pela garantia da qualidade e a confiabilidade dos sistemas, elaborando o plano de testes, criação e&#xD;
+execução dos casos de testes em funcionalidades, testes de desempenho, testes de usabilidade e também testes de segurança.&#xD;
+Este profissional atua na detecção de falhas no software que irá ser implantado desta forma colaborando com a equipe de&#xD;
+implantação bem como auxiliando os clientes a entender as regras de negócio do sistema em questão, também atuando&#xD;
+diretamente na validação dos dados migrados.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZBGE1Kyb_nUHdQJHHo6LqQ" name="Relatorio_de_Plano_de_Testes,_igia4U-1EfC2uqZ-LeFHvA" guid="-ZBGE1Kyb_nUHdQJHHo6LqQ">
+    <keyConsiderations>Plano de testes, Casos de Teste, escopo, objetivo</keyConsiderations>
+    <refinedDescription>Relatório que descreve o objetivo, o escopo, a abordagem, os recursos necessários, para a execução de uma rodada de testes,&#xD;
+além dos dados mencionados anteriormente, neste documento também é relatado todos os casos de testes que devem ser&#xD;
+aplicados para o escopo definido.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-hE4J0hlwTEgzsx1vNdR4Vw" name="Documentacao_do_Usuario,_iJzFsVBAEfCxvIjacSm1BQ" guid="-hE4J0hlwTEgzsx1vNdR4Vw">
+    <keyConsiderations>A documentação deve ser clara, concisa e fácil de entender, mesmo para usuários sem conhecimento técnico. Deve ser&#xD;
+organizada e pesquisável, permitindo que os usuários encontrem rapidamente as informações que precisam. Deve ser mantida&#xD;
+atualizada e precisa, refletindo as versões mais recentes do sistema.</keyConsiderations>
+    <refinedDescription>Este produto de trabalho compreende manuais de uso, guias passo a passo, tutoriais em vídeo, FAQs (Perguntas Frequentes) e&#xD;
+outros materiais que explicam as funcionalidades do sistema, os procedimentos para realizar tarefas específicas e a solução&#xD;
+de problemas comuns.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-nmZu4BBpeAu0v9DpMpRjcA" name="Base_de_Conhecimento,_iJzswVBAEfCxvIjacSm1BQ" guid="-nmZu4BBpeAu0v9DpMpRjcA">
+    <keyConsiderations>A base de conhecimento deve ser fácil de usar e pesquisar. As informações devem ser precisas, claras e concisas. A base de&#xD;
+conhecimento deve ser mantida atualizada e revisada regularmente.</keyConsiderations>
+    <refinedDescription>Este produto de trabalho é um sistema ou repositório que armazena artigos, FAQs, tutoriais, guias de solução de problemas e&#xD;
+outras informações úteis sobre o sistema SIGAA. As informações são organizadas, indexadas e pesquisáveis, permitindo que os&#xD;
+usuários encontrem rapidamente as respostas que precisam. A base de conhecimento é mantida e atualizada pela equipe de&#xD;
+suporte.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--67dGI2xtDCfemEiQ2z0KA" name="Usuário,_ynpZgU7SEfC0CN7lpCrVng" guid="--67dGI2xtDCfemEiQ2z0KA">
+    <refinedDescription>Profissionais que estão alocados nas&amp;nbsp; estruturas organizacionais que irão realizar o gerenciamento da nova&#xD;
+ferramenta&amp;nbsp;(DDPS, DGP, PROPEPG),estes&amp;nbsp;usuários&amp;nbsp;serão&amp;nbsp;referencia para os usuários finais do novo sistema&#xD;
+(docentes e&amp;nbsp;TAEs dos campi da UFFS), &amp;nbsp;são responsáveis por testar o sistema com o intuito de compreender&amp;nbsp;o&#xD;
+funcionamento da nova ferramenta e com isso poderem adequar os fluxos dos processos, também são responsáveis pela validação&#xD;
+das etapas de migração de dados.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-szpk0fJNMqfLoCD9_zsSng" name="13-Elaborar_Treinamentos,_1YS8ME7SEfC0CN7lpCrVng" guid="-szpk0fJNMqfLoCD9_zsSng">
+    <refinedDescription>Processo para o usuário criar a documentação que será utilizada nos momentos de treinamentos com os usuários finais do&#xD;
+sistema. Esta documentação deverá ser gerada para cada nivel de acesso diferente que os usuário terão. Nessa etapa também&#xD;
+deverá ser escolhido se sera utilizado uma base de dados com dados reais ou embaralhados nas etapas de treinamento.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BSRSn1QE4ZZ_uk1p4j5_OQ" name="Relatorio_de_Roteiro_de_Treinamento,_1YUKUE7SEfC0CN7lpCrVng" guid="-BSRSn1QE4ZZ_uk1p4j5_OQ">
+    <refinedDescription>&lt;p>&#xD;
+    Relatório que tem o propósito auxiliar as pessoas que irão ministrar os treinamentos. Este relatório deve apresentar os&#xD;
+    tópicos e a ordem que eles devem ser tratados no sistema e apresentados no treinamento, de acordo com o nível dos&#xD;
+    usuários que estão participando do treinamento em questão.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BZck-rvEVnWOv9PGk0C8EA" name="Analista de Negócios,_10fI8U7SEfC0CN7lpCrVng" guid="-BZck-rvEVnWOv9PGk0C8EA">
+    <refinedDescription>&lt;p>&#xD;
+    Profissional responsável por realizar o levantamento de requisitos, entender o contexto atual e&amp;nbsp;definir&#xD;
+    o&amp;nbsp;cenário que deseja ser alcançado, avaliar os impactos da nova solução,avaliar a compatibilidade entre os&#xD;
+    sistemas SGP x SIGAA, identificar riscos inerentes ao proesso de implantação, mapear os processos existentes e propor&#xD;
+    melhorias para alinhamento ao novo sistema, facilitar a comunicação entre cliente e equipe técnica, gerenciar as&#xD;
+    expectativas, acompanhar os testes da nova aplicação, apoiar a elaboração de manuais, acompanhar treinamentos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Este papel está alocado na DDS&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tKRuzqf032icEw7Ge1HhhA" name="Relatorio_de_Execucao_do_Treinamento,_10fI807SEfC0CN7lpCrVng" guid="-tKRuzqf032icEw7Ge1HhhA">
+    <refinedDescription>Relatório onde sera relatado um resumo dos tópicos do treinamento, quem ministrou o mesmo, a lista de participantes, data e&#xD;
+hora da ocorrência</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-EnZXkSRuIUS8J9ooUZgvwQ" name="Chamado - Solicitação de Suporte,_8ZsmtE-0EfC2uqZ-LeFHvA" guid="-EnZXkSRuIUS8J9ooUZgvwQ">
+    <refinedDescription>Documento ou entrada em sistema que descreve o problema, o contexto em que ocorreu, passos para reprodução (se aplicável),&#xD;
+e informações de contato do solicitante. Serve como a base para o início do atendimento pelo suporte.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VwVd5k5nAWdPmgt8iOpjNQ" name="Relatorio_de_Homologação_da_Migração_de_Dados,_8ZtNwU-0EfC2uqZ-LeFHvA" guid="-VwVd5k5nAWdPmgt8iOpjNQ">
+    <refinedDescription>Relatório contendo todos os itens levantados pela equipe responsável pela homologação da migração de dados (Sugestões,&#xD;
+erros, falhas), este relatório é encaminhado para os Analistas de Sistema responsáveis por realizar a migração para os&#xD;
+ajustes necessários caso houverem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dyl8gn9kBreKqfhV2jnKLA" name="07-Homologar_Migracao_de_Dados_Cliente,_CTRzwE-2EfC2uqZ-LeFHvA" guid="-dyl8gn9kBreKqfhV2jnKLA">
+    <refinedDescription>Etapa em que a parte que o cliente(usuário) irá realizar a homologação de dados migrados, para realizar esta etapa é&#xD;
+necessário que exista um ambiente com o sistema disponível (homologação)</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-zWafr5yJWPmw8J0YMdnjMA" name="Analista_de_Sistemas,_CTRzwU-2EfC2uqZ-LeFHvA" guid="-zWafr5yJWPmw8J0YMdnjMA">
+    <refinedDescription>O Analista de Sistema é o profissional responsável por analisar os fluxos do sistema, realizar correções e adequações no&#xD;
+código-fonte, bem como realizar a migração dos dados. Este papel está alocado principalmente na DDS, embora, quando&#xD;
+necessário, analistas de sistemas vinculados à DS também possam ser acionados para apoiar nas atividades.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VvaZ-zyRRFB3VgrVfJF2aA" name="Relatorio_de_Plano_de_Migracao_de_Dados,_CTRzxU-2EfC2uqZ-LeFHvA" guid="-VvaZ-zyRRFB3VgrVfJF2aA">
+    <keyConsiderations>Deve contemplar a complexidade dos dados e a volumetria. Incluir planos de teste e validação rigorosos. Definir claramente&#xD;
+os papéis e responsabilidades de cada envolvido. Considerar janelas de manutenção e impactos operacionais.</keyConsiderations>
+    <refinedDescription>Este plano detalha as etapas, responsabilidades, pré-requisitos, ferramentas, procedimentos de extração, transformação e&#xD;
+carga (ETL), estratégias de validação, planos de contingência e rollback, cronograma e recursos necessários para a migração&#xD;
+dos dados do sistema legado para o novo sistema.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Q1nz6lYMZZ-HUYLEYi7EkA" name="Relatorio_de_Validacao_da_Migracao,_CTSa0U-2EfC2uqZ-LeFHvA" guid="-Q1nz6lYMZZ-HUYLEYi7EkA">
+    <refinedDescription>Relatório contendo todos os itens levantados pela equipe responsável pela validação da migração de dados (Sugestões, erros,&#xD;
+falhas), este relatório é encaminhado para os Analistas de Sistema responsáveis por realizar a migração para os ajustes&#xD;
+necessários caso houverem.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QlVTFMQ0lfXBcnzGt6klPw" name="Relatorio_de_Migracao_(analista_sistemas),_CVCuVE-2EfC2uqZ-LeFHvA" guid="-QlVTFMQ0lfXBcnzGt6klPw">
+    <keyConsiderations>O relatório deve ser claro, conciso e objetivo. Deve incluir um resumo executivo para facilitar a tomada de decisões. Deve&#xD;
+ser gerado automaticamente ao final do processo de migração.</keyConsiderations>
+    <refinedDescription>Este relatório consolida as informações sobre a migração de dados do sistema SGP para o SIGAA. Inclui estatísticas sobre o&#xD;
+número de registros lidos, transferidos e validados, a taxa de sucesso da migração, a lista de erros ou inconsistências&#xD;
+encontradas, e o status final da migração (completa, parcial, falha).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ihQ0Z5vHvshLoolpVnyYQw" name="11-Solicitar_suporte,_FFCwwE-2EfC2uqZ-LeFHvA" guid="-ihQ0Z5vHvshLoolpVnyYQw">
+    <keyConsiderations>A clareza na descrição do problema é fundamental para agilizar o atendimento. Definir canais de comunicação de suporte&#xD;
+acessíveis. Incentivar o usuário a verificar a documentação antes de solicitar suporte.</keyConsiderations>
+    <refinedDescription>Esta tarefa descreve os passos que um usuário deve seguir para solicitar suporte. Isso inclui a identificação do problema,&#xD;
+a escolha do canal de comunicação (ex: sistema de chamados, e-mail, telefone) e o fornecimento das informações necessárias&#xD;
+para que o suporte possa ser prestado de forma eficaz.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WdRfaWEvh45qcN6vdvOVMg" name="Analista_de_Suporte,_FFCwwU-2EfC2uqZ-LeFHvA" guid="-WdRfaWEvh45qcN6vdvOVMg">
+    <refinedDescription>O Analista de Suporte é responsável por fornecer suporte técnico aos usuários, atuando na resolução de dúvidas&#xD;
+e&amp;nbsp;problemas em relação ao sistema. Também é responsável como ponto de contato entre usuário final e a equipe técnica&#xD;
+responsável pelo projeto.Este papel está alocado na DDS.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-I8jHhEocnjA6Nj1ot6JLxw" name="Analista_de_Testes,_QpIfAU-2EfC2uqZ-LeFHvA" guid="-I8jHhEocnjA6Nj1ot6JLxw">
+    <refinedDescription>Profissional reponsável pela garantia da qualidade e a confiabilidade dos sistemas, elaborando o plano de testes, criação e&#xD;
+execução dos casos de testes em funcionalidades, testes de desempenho, testes de usabilidade e também testes de segurança.&#xD;
+Este profissional atua na detecção de falhas no software que irá ser implantado desta forma colaborando com a equipe de&#xD;
+implantação bem como auxiliando os clientes a entender as regras de negócio do sistema em questão, também atuando&#xD;
+diretamente na validação dos dados migrados.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-0s3UjMXclu31tmX5o2FXNg" name="Relatorio_de_Plano_de_Testes,_QpK7QU-2EfC2uqZ-LeFHvA" guid="-0s3UjMXclu31tmX5o2FXNg">
+    <keyConsiderations>Plano de testes, Casos de Teste, escopo, objetivo</keyConsiderations>
+    <refinedDescription>Relatório que descreve o objetivo, o escopo, a abordagem, os recursos necessários, para a execução de uma rodada de testes,&#xD;
+além dos dados mencionados anteriormente, neste documento também é relatado todos os casos de testes que devem ser&#xD;
+aplicados para o escopo definido.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-go15dgLbXrAPPdijlRV-2w" name="Documentacao_do_Usuario,_iKMuUVBAEfCxvIjacSm1BQ" guid="-go15dgLbXrAPPdijlRV-2w">
+    <keyConsiderations>A documentação deve ser clara, concisa e fácil de entender, mesmo para usuários sem conhecimento técnico. Deve ser&#xD;
+organizada e pesquisável, permitindo que os usuários encontrem rapidamente as informações que precisam. Deve ser mantida&#xD;
+atualizada e precisa, refletindo as versões mais recentes do sistema.</keyConsiderations>
+    <refinedDescription>Este produto de trabalho compreende manuais de uso, guias passo a passo, tutoriais em vídeo, FAQs (Perguntas Frequentes) e&#xD;
+outros materiais que explicam as funcionalidades do sistema, os procedimentos para realizar tarefas específicas e a solução&#xD;
+de problemas comuns.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LuJvHaZquNhoHOmOE3-s8g" name="Documentacao_de_Implantacao,_iKMuVFBAEfCxvIjacSm1BQ" guid="-LuJvHaZquNhoHOmOE3-s8g">
+    <refinedDescription>Este relatório vai ser criado de acordo com as etapas da processo de migração, ele irá ser iniciado na etapa de Iniciação,&#xD;
+e só irá finalizar depois de firmado o termo de encerramento. Este relatório deve conter todas as informações sobre&#xD;
+problemas enfrentado nas etapas do processo de migração, qual foi a solução adotada para cada um dos problemas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-4M_tTQFlniJ-6_tm8Zb-IQ" name="Base_de_Conhecimento,_iKNVYVBAEfCxvIjacSm1BQ" guid="-4M_tTQFlniJ-6_tm8Zb-IQ">
+    <keyConsiderations>A base de conhecimento deve ser fácil de usar e pesquisar. As informações devem ser precisas, claras e concisas. A base de&#xD;
+conhecimento deve ser mantida atualizada e revisada regularmente.</keyConsiderations>
+    <refinedDescription>Este produto de trabalho é um sistema ou repositório que armazena artigos, FAQs, tutoriais, guias de solução de problemas e&#xD;
+outras informações úteis sobre o sistema SIGAA. As informações são organizadas, indexadas e pesquisáveis, permitindo que os&#xD;
+usuários encontrem rapidamente as respostas que precisam. A base de conhecimento é mantida e atualizada pela equipe de&#xD;
+suporte.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-J1UBNpBIiYqFmrsZxA0vPQ" name="analista_de_infraestrutura_de_sistema,_ie7pgU7SEfC0CN7lpCrVng" guid="-J1UBNpBIiYqFmrsZxA0vPQ">
+    <refinedDescription>O Analista de Infraestrutura de Sistemas é o profissional responsável pelas atualizações de versão do sistema, por realizar&#xD;
+os merges necessários no repositório de código e pela disponibilização do sistema nos ambientes de teste, homologação e&#xD;
+produção. Este papel está alocado principalmente na DDS, embora, quando necessário, analistas vinculados à DS também possam&#xD;
+ser acionados para apoiar nas atividades.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3AfkyjD1PqoPQf63eIuKkw" name="Analista_de_Sistemas,_NrFucU-TEfC2uqZ-LeFHvA" guid="-3AfkyjD1PqoPQf63eIuKkw">
+    <refinedDescription>O Analista de Sistema é o profissional responsável por analisar os fluxos do sistema, realizar correções e adequações no&#xD;
+código-fonte, bem como realizar a migração dos dados. Este papel está alocado principalmente na DDS, embora, quando&#xD;
+necessário, analistas de sistemas vinculados à DS também possam ser acionados para apoiar nas atividades.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ud6_buMylZzqqJMshNgm_Q" name="Gerente_de_Projeto,_KrHZgU-XEfC2uqZ-LeFHvA" guid="-Ud6_buMylZzqqJMshNgm_Q">
+    <refinedDescription>O Gerente de Projeto é responsável por planejar, executar e monitorizar o projeto de implantação do sistema, garantindo que&#xD;
+ele seja entregue dentro do prazo, do orçamento e com a qualidade esperada. Este papel está alocado na DDS.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-x-OP2Ujz-_QCOwteZ-a7OA" name="Usuarios_PROPEPG,_KrHZg0-XEfC2uqZ-LeFHvA" guid="-x-OP2Ujz-_QCOwteZ-a7OA">
+    <refinedDescription>Profissionais que estão alocados nas&amp;nbsp; estruturas organizacionais que irão realizar o gerenciamento da nova&#xD;
+ferramenta&amp;nbsp;(DDPS, DGP, PROPEPG),estes&amp;nbsp;usuários&amp;nbsp;serão&amp;nbsp;referencia para os usuários finais do novo sistema&#xD;
+(docentes e&amp;nbsp;TAEs dos campi da UFFS), &amp;nbsp;são responsáveis por testar o sistema com o intuito de compreender&amp;nbsp;o&#xD;
+funcionamento da nova ferramenta e com isso poderem adequar os fluxos dos processos, também são responsáveis pela validação&#xD;
+das etapas de migração de dados.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-s_dk7mRJHtZ7I7q6ZHHx8w" name="implantacao,_cWIggU4oEfC8SdflWuDbrQ" guid="-s_dk7mRJHtZ7I7q6ZHHx8w">
+    <mainDescription>O processo de implantação que será apresentado é dividido em quatro grandes fases. Sendo elas : Iniciação, Execução,&#xD;
+Homologação e Finalização.</mainDescription>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+</xmi:XMI>

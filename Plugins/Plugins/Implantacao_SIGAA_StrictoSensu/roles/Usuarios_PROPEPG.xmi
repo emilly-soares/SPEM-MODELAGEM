@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-53aLhWVdllffQTqje-FcUg" name="Usuarios_PROPEPG,_H53iUDs9EfCjyuend5h0kw" guid="-53aLhWVdllffQTqje-FcUg" authors="elrison,emily,maiza" changeDate="2025-06-22T10:27:09.127-0300" changeDescription="Criação de papel inicial" version="1.0">
+  <mainDescription>Profissionais que estão alocados nas&amp;nbsp; estruturas organizacionais que irão realizar o gerenciamento da nova&#xD;
+ferramenta&amp;nbsp;(DDPS, DGP, PROPEPG),estes&amp;nbsp;usuários&amp;nbsp;serão&amp;nbsp;referencia para os usuários finais do novo sistema&#xD;
+(docentes e&amp;nbsp;TAEs dos campi da UFFS), &amp;nbsp;são responsáveis por testar o sistema com o intuito de compreender&amp;nbsp;o&#xD;
+funcionamento da nova ferramenta e com isso poderem adequar os fluxos dos processos, também são responsáveis pela validação&#xD;
+das etapas de migração de dados.</mainDescription>
+  <skills>Conhecimento dos fluxos de trabalho das unidades (DDPS, DGP, PROPEPG); Testes de software (funcionais); Validação de dados;&#xD;
+Comunicação de feedback.</skills>
+</org.eclipse.epf.uma:RoleDescription>
