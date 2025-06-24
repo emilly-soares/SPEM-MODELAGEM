@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-g0on4ip5p2xdN3Xz6siKkA" name=",_H3bekEZPEfCuHKNutCCF2A" guid="-g0on4ip5p2xdN3Xz6siKkA">
-  <sections xmi:id="_dlX8QEZQEfCuHKNutCCF2A" name="Acessar ambiente de homologação" guid="_dlX8QEZQEfCuHKNutCCF2A"/>
-  <sections xmi:id="_fN6nYEZQEfCuHKNutCCF2A" name="Validar as funcinalidades do sistema com os dados migrados." guid="_fN6nYEZQEfCuHKNutCCF2A"/>
-  <sections xmi:id="_jcW9wEZQEfCuHKNutCCF2A" name="Elaborar relatório de homologação final." guid="_jcW9wEZQEfCuHKNutCCF2A"/>
-</org.eclipse.epf.uma:TaskDescription>

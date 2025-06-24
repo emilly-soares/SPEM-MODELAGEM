@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AXnPhd5mkm6nq94-dpycrw" name="new_role,_PQMVwEWoEfCvEol5Is7bGg" guid="-AXnPhd5mkm6nq94-dpycrw" authors="elrison,emily,maiza" changeDate="2025-06-09T23:09:45.032-0400" changeDescription="Criação inicial de papel" version="1.0">
-  <mainDescription>O Analista de Sistema é o profissional responsável por analisar os fluxos do sistema, realizar correções e adequações no&#xD;
-código-fonte, bem como realizar a migração dos dados. Este papel está alocado principalmente na DDS, embora, quando&#xD;
-necessário, analistas de sistemas vinculados à DS também possam ser acionados para apoiar nas atividades.</mainDescription>
-  <skills>Análise de sistemas; Programação/Desenvolvimento de software; Correção de bugs; Adaptação de código; Migração de dados;&#xD;
-Conhecimento em banco de dados.</skills>
-</org.eclipse.epf.uma:RoleDescription>

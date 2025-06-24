@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vf_wpGlgEr9mIzlRotclEQ" name="Relatorio de Migração Homologada,_2ewg4Ds9EfCjyuend5h0kw" guid="-vf_wpGlgEr9mIzlRotclEQ">
-  <mainDescription>Relatório contendo todos os itens levantados pela equipe responsável pela homologação da migração de dados (Sugestões,&#xD;
-erros, falhas), este relatório é encaminhado para os Analistas de Sistema responsáveis por realizar a migração para os&#xD;
-ajustes necessários caso houverem.</mainDescription>
-</org.eclipse.epf.uma:ArtifactDescription>

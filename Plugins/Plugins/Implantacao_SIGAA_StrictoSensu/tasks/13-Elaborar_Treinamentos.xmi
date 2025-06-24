@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TAoeieWNB43tCquxbbyGBg" name="13-Elaborar_Treinamentos,_d9WAkDs9EfCjyuend5h0kw" guid="-TAoeieWNB43tCquxbbyGBg" authors="elrison,emily,maiza" changeDate="2025-06-20T20:23:34.214-0300" changeDescription="Criação inicial da tarefa." version="1.0">
-  <mainDescription>Processo para o usuário criar a documentação que será utilizada nos momentos de treinamentos com os usuários finais do&#xD;
-sistema. Esta documentação deverá ser gerada para cada nivel de acesso diferente que os usuário terão. Nessa etapa também&#xD;
-deverá ser escolhido se sera utilizado uma base de dados com dados reais ou embaralhados nas etapas de treinamento.</mainDescription>
-  <sections xmi:id="_E-dnwE4uEfC8SdflWuDbrQ" name="Definir Itens do Treinamento" guid="_E-dnwE4uEfC8SdflWuDbrQ"/>
-  <sections xmi:id="_LEcHgE4uEfC8SdflWuDbrQ" name="Criar material" guid="_LEcHgE4uEfC8SdflWuDbrQ"/>
-</org.eclipse.epf.uma:TaskDescription>

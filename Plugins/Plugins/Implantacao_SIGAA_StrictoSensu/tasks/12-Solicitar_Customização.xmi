@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZS3BV4IPmW7mGvlG0HxLvQ" name="12-Solicitar_Customização,_f0LmYDs9EfCjyuend5h0kw" guid="-ZS3BV4IPmW7mGvlG0HxLvQ">
-  <sections xmi:id="_Eej1IE4tEfC8SdflWuDbrQ" name="Usuário acessa o sistema de chamados" guid="_Eej1IE4tEfC8SdflWuDbrQ"/>
-  <sections xmi:id="_GzcB0E4tEfC8SdflWuDbrQ" name="Usuário realiza o cadastro de solicitação" guid="_GzcB0E4tEfC8SdflWuDbrQ"/>
-</org.eclipse.epf.uma:TaskDescription>

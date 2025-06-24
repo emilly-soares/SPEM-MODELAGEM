@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UYvEOaNP2jc3EvMV3XVIPA" name="Relatorio de Execução do Treinamento,_0w1mgDs9EfCjyuend5h0kw" guid="-UYvEOaNP2jc3EvMV3XVIPA">
-  <mainDescription>Relatório onde sera relatado um resumo dos tópicos do treinamento, quem ministrou o mesmo, a lista de participantes, data e&#xD;
-hora da ocorrência</mainDescription>
-</org.eclipse.epf.uma:ArtifactDescription>

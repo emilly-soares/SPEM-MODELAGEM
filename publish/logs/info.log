@@ -1,90 +1,138 @@
-Info: CustomCategory:minha_visao: 9 mini seconds publishing element
-Info: DeliveryProcess:Processo de implantação: 121 mini seconds publishing element
-Info: DeliveryProcess:Processo de implantação: 703 mini seconds publishing process specific layout data
-Info: Phase:Iniciação: 134 mini seconds publishing element
-Info: TaskDescriptor:01-acordar_demanda: 8 mini seconds publishing element
-Info: TaskDescriptor:03-aprovar_cronograma: 8 mini seconds publishing element
-Info: Phase:execucao: 378 mini seconds publishing element
-Info: TaskDescriptor:04-elaborar_plano_de_migracao: 8 mini seconds publishing element
-Info: TaskDescriptor:05-Migrar Dados: 6 mini seconds publishing element
-Info: TaskDescriptor:10-Testar Sistema: 6 mini seconds publishing element
-Info: TaskDescriptor:07-homologar_migracao_etapa: 5 mini seconds publishing element
-Info: TaskDescriptor:11-Solicitar_suporte: 5 mini seconds publishing element
-Info: TaskDescriptor:12-Solicitar Customização: 4 mini seconds publishing element
-Info: Phase:homologacao: 148 mini seconds publishing element
-Info: TaskDescriptor:08-realizar_homologao_final: 5 mini seconds publishing element
+Info: CustomCategory:Categoria Customizada: 10 mini seconds publishing element
+Info: DeliveryProcess:Processo_de_implantacao: 202 mini seconds publishing element
+Info: DeliveryProcess:Processo_de_implantacao: 1289 mini seconds publishing process specific layout data
+Info: Phase:Iniciação: 202 mini seconds publishing element
+Info: TaskDescriptor:01-Acordar_Demanda: 7 mini seconds publishing element
+Info: TaskDescriptor:02-Definir_Cronograma: 10 mini seconds publishing element
+Info: TaskDescriptor:03-Aprovar_Cronograma: 7 mini seconds publishing element
+Info: Phase:execucao: 462 mini seconds publishing element
+Info: TaskDescriptor:04-Elaborar_Plano_de_Migracao: 7 mini seconds publishing element
+Info: TaskDescriptor:05-Migrar_Dados: 9 mini seconds publishing element
+Info: TaskDescriptor:06-Validar_Dados_Migrados: 8 mini seconds publishing element
+Info: TaskDescriptor:10-Testar_Sistema: 8 mini seconds publishing element
+Info: Phase:homologacao: 559 mini seconds publishing element
+Info: TaskDescriptor:07-Homologar_Migracao_de_Dados_Cliente: 6 mini seconds publishing element
+Info: TaskDescriptor:10-Testar_Sistema: 7 mini seconds publishing element
+Info: TaskDescriptor:11-Solicitar_Suporte: 5 mini seconds publishing element
+Info: TaskDescriptor:12-Solicitar_Customização: 5 mini seconds publishing element
+Info: TaskDescriptor:14-Treinar_Usuarios: 5 mini seconds publishing element
 Info: TaskDescriptor:13-Elaborar_Treinamentos: 4 mini seconds publishing element
-Info: TaskDescriptor:14-Treinar Usuários: 5 mini seconds publishing element
-Info: Phase:finalizacao: 79 mini seconds publishing element
-Info: TaskDescriptor:09-disponibilizar_sistema_em_ambiente_de_produo: 2 mini seconds publishing element
-Info: RoleDescriptor:Analista_de_Banco_de_Dados: 4 mini seconds publishing element
-Info: RoleDescriptor:Analista_de_Infraestrutura_de_Sistema: 2 mini seconds publishing element
+Info: TaskDescriptor:08-Realizar_Homologacao_Final: 4 mini seconds publishing element
+Info: Phase:finalizacao: 148 mini seconds publishing element
+Info: TaskDescriptor:09-Disponibilizar_Sistema_em_Ambiente_de_Producao: 3 mini seconds publishing element
+Info: TaskDescriptor:15-Finalizar_Projeto: 2 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Banco_de_Dados: 3 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Infraestrutura_de_Sistema: 3 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Negocios: 4 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Sistemas: 3 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Suporte: 3 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Testes: 3 mini seconds publishing element
+Info: RoleDescriptor:Gerente_de_Projeto: 5 mini seconds publishing element
+Info: RoleDescriptor:Usuarios_PROPEPG: 5 mini seconds publishing element
+Info: WorkProductDescriptor:Analise_de_Demandas_Suporte_Customizacao: 5 mini seconds publishing element
+Info: WorkProductDescriptor:Base_Dados_Sistema_Legado_(SGP): 3 mini seconds publishing element
+Info: WorkProductDescriptor:Base_Dados_Atualizada_Novo_Sistema_(SIGAA): 4 mini seconds publishing element
+Info: WorkProductDescriptor:Base_de_Conhecimento: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Chamado_Solicitacao_de_Customizacao: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Chamado_Solicitacao_de_Suporte: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Cronograma_de_implantacao: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Documentacao_de_Implantacao: 4 mini seconds publishing element
+Info: WorkProductDescriptor:Documentacao_do_Usuario: 3 mini seconds publishing element
+Info: WorkProductDescriptor:logs_de_erro_de_migracao: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Mapeamento_de_Dados: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Execucao_do_Treinamento: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Execucao_dos_Testes: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Homologação_da_Migração_de_Dados: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Homologacao_Final: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Migracao_(analista_sistemas): 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Plano_de_Migracao_de_Dados: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Plano_de_Testes: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Roteiro_de_Treinamento: 6 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Validacao_da_Migracao: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Sistema_Disponivel_Ambientes_de_Desenvolvimento_Testes_e_Homologacao: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Sistema_Disponivel_em_Ambiente_de_Producao: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Termo_de_Abertura_do_Projeto: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Termo_de_Encerramento_de_Projeto: 3 mini seconds publishing element
+Info: Role:Gerente_de_Projeto: 31 mini seconds publishing element
+Info: Task:01-Acordar_Demanda: 11 mini seconds publishing element
+Info: Task:02-Definir_Cronograma: 12 mini seconds publishing element
+Info: Role:Usuarios_PROPEPG: 58 mini seconds publishing element
+Info: Task:03-Aprovar_Cronograma: 10 mini seconds publishing element
+Info: Role:Analista_de_Negocios: 25 mini seconds publishing element
+Info: Artifact:Termo_de_Abertura_do_Projeto: 8 mini seconds publishing element
+Info: Artifact:Cronograma_de_implantacao: 7 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Banco_de_Dados: 5 mini seconds publishing element
 Info: RoleDescriptor:Analista_de_Negocios: 3 mini seconds publishing element
 Info: RoleDescriptor:Analista_de_Sistemas: 4 mini seconds publishing element
-Info: RoleDescriptor:Analista_de_Suporte: 3 mini seconds publishing element
-Info: RoleDescriptor:Gerente_de_Projeto: 4 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Testes: 5 mini seconds publishing element
 Info: RoleDescriptor:Usuarios_PROPEPG: 4 mini seconds publishing element
-Info: WorkProductDescriptor:Base Dados - Sistema Legado (SGP): 3 mini seconds publishing element
-Info: WorkProductDescriptor:Base Dados Atualizada - Novo Sistema (SIGAA): 4 mini seconds publishing element
-Info: WorkProductDescriptor:Chamado - Solicitação de Customização: 2 mini seconds publishing element
-Info: WorkProductDescriptor:Chamado - Solicitação de Suporte: 2 mini seconds publishing element
-Info: WorkProductDescriptor:Cronograma_de_implantacao: 3 mini seconds publishing element
-Info: WorkProductDescriptor:Documentação de Implantação: 2 mini seconds publishing element
-Info: WorkProductDescriptor:logs_de_erro_de_migracao: 3 mini seconds publishing element
-Info: WorkProductDescriptor:mapeamento_de_dados: 2 mini seconds publishing element
-Info: WorkProductDescriptor:Relatorio de Execução do Treinamento: 1 mini seconds publishing element
-Info: WorkProductDescriptor:Relatório de Homologação Final: 2 mini seconds publishing element
-Info: WorkProductDescriptor:Relatório de Migração (etapa): 3 mini seconds publishing element
-Info: WorkProductDescriptor:Relatorio de Migração Homologada: 2 mini seconds publishing element
-Info: WorkProductDescriptor:Relatório de Plano de Migração de Dados: 3 mini seconds publishing element
-Info: WorkProductDescriptor:Relatório de Roteiro de Treinamento: 4 mini seconds publishing element
-Info: WorkProductDescriptor:Relatório de Testes: 1 mini seconds publishing element
-Info: WorkProductDescriptor:Sistema em Produção: 2 mini seconds publishing element
-Info: WorkProductDescriptor:Termo de Abertura do Projeto: 2 mini seconds publishing element
-Info: Role:Gerente_de_Projeto: 30 mini seconds publishing element
-Info: Task:01-acordar_demanda: 10 mini seconds publishing element
-Info: Role:Usuarios_PROPEPG: 106 mini seconds publishing element
-Info: Task:03-aprovar_cronograma: 8 mini seconds publishing element
-Info: Artifact:Termo de Abertura do Projeto: 7 mini seconds publishing element
-Info: Artifact:Cronograma_de_implantacao: 9 mini seconds publishing element
-Info: RoleDescriptor:Analista_de_Negocios: 4 mini seconds publishing element
-Info: RoleDescriptor:Usuarios_PROPEPG: 3 mini seconds publishing element
-Info: WorkProductDescriptor:Documentação de Implantação: 1 mini seconds publishing element
-Info: Role:Analista_de_Sistemas: 25 mini seconds publishing element
-Info: Task:04-elaborar_plano_de_migracao: 12 mini seconds publishing element
-Info: Task:05-Migrar Dados: 11 mini seconds publishing element
-Info: Role:Analista_de_Banco_de_Dados: 23 mini seconds publishing element
-Info: Task:10-Testar Sistema: 9 mini seconds publishing element
-Info: Task:07-homologar_migracao_etapa: 9 mini seconds publishing element
-Info: Task:11-Solicitar_suporte: 8 mini seconds publishing element
-Info: Role:Analista_de_Negocios: 39 mini seconds publishing element
-Info: Artifact:mapeamento_de_dados: 6 mini seconds publishing element
-Info: Artifact:Base Dados - Sistema Legado (SGP): 6 mini seconds publishing element
-Info: Artifact:Base Dados Atualizada - Novo Sistema (SIGAA): 8 mini seconds publishing element
-Info: Artifact:logs_de_erro_de_migracao: 7 mini seconds publishing element
-Info: Task:12-Solicitar Customização: 8 mini seconds publishing element
-Info: RoleDescriptor:Analista_de_Negocios: 4 mini seconds publishing element
-Info: RoleDescriptor:Usuarios_PROPEPG: 3 mini seconds publishing element
-Info: WorkProductDescriptor:Documentação de Implantação: 1 mini seconds publishing element
-Info: Task:08-realizar_homologao_final: 12 mini seconds publishing element
-Info: Task:13-Elaborar_Treinamentos: 9 mini seconds publishing element
-Info: Task:14-Treinar Usuários: 11 mini seconds publishing element
+Info: WorkProductDescriptor:Cronograma_de_implantacao: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Mapeamento_de_Dados: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Execucao_dos_Testes: 4 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Migracao_(analista_sistemas): 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Plano_de_Testes: 6 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Validacao_da_Migracao: 3 mini seconds publishing element
+Info: Role:Analista_de_Sistemas: 31 mini seconds publishing element
+Info: Task:04-Elaborar_Plano_de_Migracao: 11 mini seconds publishing element
+Info: Task:05-Migrar_Dados: 12 mini seconds publishing element
+Info: Role:Analista_de_Banco_de_Dados: 20 mini seconds publishing element
+Info: Role:Analista_de_Testes: 33 mini seconds publishing element
+Info: Task:06-Validar_Dados_Migrados: 11 mini seconds publishing element
+Info: Task:10-Testar_Sistema: 13 mini seconds publishing element
+Info: Artifact:Base_Dados_Atualizada_Novo_Sistema_(SIGAA): 10 mini seconds publishing element
+Info: Artifact:Base_Dados_Sistema_Legado_(SGP): 7 mini seconds publishing element
+Info: Artifact:Relatorio_de_Plano_de_Migracao_de_Dados: 7 mini seconds publishing element
+Info: Artifact:Documentacao_de_Implantacao: 9 mini seconds publishing element
+Info: Artifact:logs_de_erro_de_migracao: 6 mini seconds publishing element
+Info: Artifact:Relatorio_de_Validacao_da_Migracao: 8 mini seconds publishing element
+Info: Artifact:Relatorio_de_Plano_de_Testes: 9 mini seconds publishing element
+Info: Artifact:Relatorio_de_Execucao_dos_Testes: 11 mini seconds publishing element
+Info: Artifact:Documentacao_do_Usuario: 8 mini seconds publishing element
+Info: Artifact:Base_de_Conhecimento: 7 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Negocios: 3 mini seconds publishing element
 Info: RoleDescriptor:Analista_de_Sistemas: 3 mini seconds publishing element
-Info: Role:Analista_de_Infraestrutura_de_Sistema: 17 mini seconds publishing element
-Info: Task:09-disponibilizar_sistema_em_ambiente_de_produo: 7 mini seconds publishing element
-Info: Role:Analista_de_Suporte: 19 mini seconds publishing element
-Info: Artifact:Chamado - Solicitação de Customização: 6 mini seconds publishing element
-Info: Artifact:Chamado - Solicitação de Suporte: 7 mini seconds publishing element
-Info: Artifact:Documentação de Implantação: 8 mini seconds publishing element
-Info: Artifact:Relatorio de Execução do Treinamento: 9 mini seconds publishing element
-Info: Artifact:Relatório de Homologação Final: 6 mini seconds publishing element
-Info: Artifact:Relatório de Migração (etapa): 8 mini seconds publishing element
-Info: Artifact:Relatorio de Migração Homologada: 6 mini seconds publishing element
-Info: Artifact:Relatório de Plano de Migração de Dados: 8 mini seconds publishing element
-Info: Artifact:Relatório de Roteiro de Treinamento: 6 mini seconds publishing element
-Info: Artifact:Relatório de Testes: 7 mini seconds publishing element
-Info: Artifact:Sistema em Produção: 6 mini seconds publishing element
-Info: Task:02-definir_cronograma: 12 mini seconds publishing element
-Info: Task:06-validar_dados_migrados: 8 mini seconds publishing element
-Info: Artifact:Relatório de Validação da Migração: 6 mini seconds publishing element
-Info: : Publishing time: 0 minutes 8 seconds
+Info: RoleDescriptor:Analista_de_Suporte: 3 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Testes: 4 mini seconds publishing element
+Info: RoleDescriptor:Usuarios_PROPEPG: 7 mini seconds publishing element
+Info: WorkProductDescriptor:Analise_de_Demandas_Suporte_Customizacao: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Base_Dados_Atualizada_Novo_Sistema_(SIGAA): 3 mini seconds publishing element
+Info: WorkProductDescriptor:Base_de_Conhecimento: 4 mini seconds publishing element
+Info: WorkProductDescriptor:Documentacao_de_Implantacao: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Documentacao_do_Usuario: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Execucao_do_Treinamento: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Execucao_dos_Testes: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Homologação_da_Migração_de_Dados: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Migracao_(analista_sistemas): 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Plano_de_Migracao_de_Dados: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Plano_de_Testes: 1 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Validacao_da_Migracao: 3 mini seconds publishing element
+Info: Task:07-Homologar_Migracao_de_Dados_Cliente: 9 mini seconds publishing element
+Info: Task:11-Solicitar_Suporte: 9 mini seconds publishing element
+Info: Task:14-Treinar_Usuarios: 13 mini seconds publishing element
+Info: Task:13-Elaborar_Treinamentos: 9 mini seconds publishing element
+Info: Task:08-Realizar_Homologacao_Final: 12 mini seconds publishing element
+Info: Artifact:Sistema_Disponivel_Ambientes_de_Desenvolvimento_Testes_e_Homologacao: 7 mini seconds publishing element
+Info: Artifact:Chamado_Solicitacao_de_Suporte: 5 mini seconds publishing element
+Info: Artifact:Chamado_Solicitacao_de_Customizacao: 6 mini seconds publishing element
+Info: Artifact:Relatorio_de_Roteiro_de_Treinamento: 6 mini seconds publishing element
+Info: Artifact:Relatorio_de_Execucao_do_Treinamento: 6 mini seconds publishing element
+Info: Artifact:Relatorio_de_Homologacao_Final: 8 mini seconds publishing element
+Info: Task:12-Solicitar_Customização: 7 mini seconds publishing element
+Info: RoleDescriptor:Analista_de_Sistemas: 2 mini seconds publishing element
+Info: RoleDescriptor:Gerente_de_Projeto: 2 mini seconds publishing element
+Info: RoleDescriptor:Usuarios_PROPEPG: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Base_Dados_Atualizada_Novo_Sistema_(SIGAA): 2 mini seconds publishing element
+Info: WorkProductDescriptor:Relatorio_de_Homologacao_Final: 3 mini seconds publishing element
+Info: Role:Analista_de_Infraestrutura_de_Sistema: 30 mini seconds publishing element
+Info: Task:09-Disponibilizar_Sistema_em_Ambiente_de_Producao: 6 mini seconds publishing element
+Info: Task:15-Finalizar_Projeto: 6 mini seconds publishing element
+Info: Artifact:Sistema_Disponivel_em_Ambiente_de_Producao: 6 mini seconds publishing element
+Info: Artifact:Termo_de_Encerramento_de_Projeto: 9 mini seconds publishing element
+Info: Role:Analista_de_Suporte: 18 mini seconds publishing element
+Info: Artifact:Analise_de_Demandas_Suporte_Customizacao: 8 mini seconds publishing element
+Info: Artifact:Mapeamento_de_Dados: 6 mini seconds publishing element
+Info: Artifact:Relatorio_de_Homologação_da_Migração_de_Dados: 7 mini seconds publishing element
+Info: Artifact:Relatorio_de_Migracao_(analista_sistemas): 7 mini seconds publishing element
+Info: Guideline:base_de_conhecimento: 9 mini seconds publishing element
+Info: Guideline:guia_documentao_usuario: 8 mini seconds publishing element
+Info: : Publishing time: 0 minutes 4 seconds

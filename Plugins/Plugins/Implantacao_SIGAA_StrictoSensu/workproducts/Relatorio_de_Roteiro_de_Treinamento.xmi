@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-t_kV-KgGYKrpOLZkV8hQzw" name="Relatório de Roteiro de Treinamento,_xlQXYE4tEfC8SdflWuDbrQ" guid="-t_kV-KgGYKrpOLZkV8hQzw" changeDate="2025-06-23T11:33:03.475-0300">
-  <mainDescription>&lt;p>&#xD;
-    Relatório que tem o propósito auxiliar as pessoas que irão ministrar os treinamentos. Este relatório deve apresentar os&#xD;
-    tópicos e a ordem que eles devem ser tratados no sistema e apresentados no treinamento, de acordo com o nível dos&#xD;
-    usuários que estão participando do treinamento em questão.&#xD;
-&lt;/p></mainDescription>
-</org.eclipse.epf.uma:ArtifactDescription>

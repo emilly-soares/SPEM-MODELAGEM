@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-m7-KwMlFUBH0Vm8Ui3bWYA" name="Documentação de Implantação,_n_ez4Ds9EfCjyuend5h0kw" guid="-m7-KwMlFUBH0Vm8Ui3bWYA" changeDate="2025-06-23T11:39:41.859-0300">
-  <mainDescription>Este relatório vai ser criado de acordo com as etapas da processo de migração, ele irá ser iniciado na etapa de Iniciação,&#xD;
-e só irá finalizar depois de firmado o termo de encerramento. Este relatório deve conter todas as informações sobre&#xD;
-problemas enfrentado nas etapas do processo de migração, qual foi a solução adotada para cada um dos problemas.</mainDescription>
-</org.eclipse.epf.uma:ArtifactDescription>
